@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="ReVersion: Diffusion-Based Relation Inversion from Images">
+  <meta name="keywords" content="Relation Inversion, Text-to-Image, Stable Diffusion, AIGC, Image Generation">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ReVersion: Diffusion-Based Relation Inversion from Images</title>
+
+<!--   Global site tag (gtag.js) - Google Analytics-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5ZVQZ7NHC"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-Y5ZVQZ7NHC');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./assets/reversion/css/bulma.min.css">
+  <link rel="stylesheet" href="./assets/reversion/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./assets/reversion/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./assets/reversion/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./assets/reversion/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./assets/reversion/js/fontawesome.all.min.js"></script>
+  <script src="./assets/reversion/js/bulma-carousel.min.js"></script>
+  <script src="./assets/reversion/js/bulma-slider.min.js"></script>
+  <script src="./assets/reversion/js/index.js"></script>
+</head>
+<body>
+
+<!-- title -->
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title"><span style="color:#01b49c; font-weight: bold; font-style: italic">ReVersion</span> : Diffusion-Based<br> Relation Inversion from Images</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+
+              <span class="author-block">
+                  <a href="https://ziqihuangg.github.io" target="_blank">Ziqi Huang</a><sup>*</sup>,
+              </span>
+              <span class="author-block">
+                  <a href="https://tianxingwu.github.io" target="_blank">Tianxing Wu</a><sup>*</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://yumingj.github.io/" target="_blank">Yuming Jiang</a>,
+              </span>
+              <span class="author-block">
+                  <a href="https://ckkelvinchan.github.io" target="_blank">Kelvin C.K. Chan</a>,
+              </span>
+              <span class="author-block">
+                <a href="https://liuziwei7.github.io/" target="_blank">Ziwei Liu</a><sup>&#8224</sup>
+              </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">( * equal contributions) </span>
+        </div>
+
+        <div class="is-size-5 publication-authors">
+          <span class="author-block">S-Lab, Nanyang Technological University</span>
+        </div>
+
+        <div class="column has-text-centered">
+          <div class="publication-links">
+            
+            <span class="link-block">
+              <a href="https://arxiv.org/abs/2303.13495" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="ai ai-arxiv"></i>
+                </span>
+                <span>arXiv</span>
+              </a>
+            </span>
+            <!-- Video Link. -->
+            <span class="link-block">
+              <a href="https://www.youtube.com/watch?v=pkal3yjyyKQ" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="fab fa-youtube"></i>
+                </span>
+                <span>Video</span>
+              </a>
+            </span>
+            <!-- Code Link. -->
+            <span class="link-block">
+              <a href="https://github.com/ziqihuangg/ReVersion" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="fab fa-github"></i>
+                </span>
+                <span>GitHub</span>
+              </a>
+            </span>
+            <!-- Huggingface Demo Link. -->
+            <span class="link-block">
+              <a href="https://huggingface.co/spaces/Ziqi/ReVersion" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <!-- <span class="icon">
+                  <i class="fab fa-face-smiling-hands"></i>
+                </span> -->
+                <span>Huggingface Demo</span>
+              </a>
+            </span>
+            <!-- Dataset Link. -->
+            <span class="link-block">
+              <a href="https://drive.google.com/drive/folders/1FU1Ni-oDpxQCNYKo-ZLEfSGqO-j_Hw7X" class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="far fa-images"></i>
+                </span>
+                <span>Dataset</span>
+              </a>
+          </div>
+
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- teaser -->
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <img src="assets/reversion/images/fig_teaser.jpg" style="width:1000px; margin-bottom:20px;"
+                   alt="Teaser."/>
+      <p>
+        We propose a new task, <b>Relation Inversion</b>: Given a few exemplar images, where a relation co-exists in every image, we aim to find a relation prompt <b>&#60R&#62</b> to capture this interaction, and apply the relation to new entities to synthesize new scenes. The above images are generated by our <b>ReVersion</b> framework.
+      <p>
+    </div>
+  </div>
+</section>
+
+
+<!-- Paper video. -->
+<section class="hero is-light is-small">
+  <div class="columns is-centered has-text-centered"  style="margin-top: 10px; margin-bottom: 20px;">
+    <div class="column is-three-fifths">
+      <h2 class="title is-3">Video</h2>
+      <div class="publication-video">
+        <iframe src="https://www.youtube.com/embed/pkal3yjyyKQ" frameborder="10"
+          allow="autoplay; encrypted-media" width="50%" allowfullscreen></iframe>
+      </div>
+
+    </div>
+  </div>
+</section>
+<!-- / Paper video.   -->
+
+
+<!-- Abstract. -->
+<section>
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered" style="margin-top: 10px; margin-bottom: 0px;">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+              Diffusion models gain increasing popularity for their generative capabilities. Recently, there have been surging needs to generate customized images by inverting diffusion models from exemplar images. However, existing inversion methods mainly focus on capturing object appearances. How to invert object relations, another important pillar in the visual world, remains unexplored. In this work, we propose ReVersion for the Relation Inversion task, which aims to learn a specific relation (represented as "relation prompt") from exemplar images. Specifically, we learn a relation prompt from a frozen pre-trained text-to-image diffusion model. The learned relation prompt can then be applied to generate relation-specific images with new objects, backgrounds, and styles. 
+              <br><br>    
+              Our key insight is the "preposition prior" - real-world relation prompts can be sparsely activated upon a set of basis prepositional words. Specifically, we propose a novel relation-steering contrastive learning scheme to impose two critical properties of the relation prompt: 1) The relation prompt should capture the interaction between objects, enforced by the preposition prior. 2) The relation prompt should be disentangled away from object appearances. We further devise relation-focal importance sampling to emphasize high-level interactions over low-level appearances (e.g., texture, color). To comprehensively evaluate this new task, we contribute ReVersion Benchmark, which provides various exemplar images with diverse relations. Extensive experiments validate the superiority of our approach over existing methods across a wide range of visual relations.
+          </p>
+        </div>
+      </div>
+    </div>
+</section>
+<!--/ Abstract. -->
+
+<!--/ Framework. -->
+<section class="section" style="margin-top:-50px; margin-bottom:-50px;">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+        <div class="section-title">
+          <h2 class="title is-3 is-centered">ReVersion Framework</h2>
+        </div>
+        <div class="columns is-centered has-text-centered">
+          <div class="column">
+            <div class="publication-img">
+              <img id="architecture" src="assets/reversion/images/fig_framework.jpg" style="width:1000px; margin-top:10px;margin-bottom:10px;"/>
+            </div>
+          </div>
+        </div>
+        <p>
+          Given exemplar images and their entities' coarse descriptions, our <b>ReVersion framework</b> optimizes the relation prompt <b>&#60R&#62</b> to capture the relation that co-exists in all the exemplar images. During optmization, the <em>relation-focal importance sampling</em> strategy encourages <b>&#60R&#62</b> to focus on high-level relations, and the <em>relation-steering contrastive Learning</em> scheme induces the relation prompt <b>&#60R&#62</b> towards our <em>preposition prior</em> and away from entities or appearances. Upon optimization, <b>&#60R&#62</b> can be used as a word in new sentences to make novel entities interact via the relation in exemplar images. 
+        </p>
+    </div>
+  </div>
+</section>
+
+
+<!-- Diverse Relations -->
+<section class="hero is-light is-small" >
+  <div class="hero-body">
+
+
+    <div class="container is-max-desktop"  style="margin-top:30px;">
+
+      <div class="section-title">
+        <h2 class="title is-3">Diverse Relations</h2>
+      </div>
+
+      <h2 class="subtitle has-text-centered">Inverting diverse relations and apply them on new objects.</h2>
+      
+      <!-- Single Line -->
+      <!-- <div id="results-carousel-face" class="carousel results-carousel">
+        <div class="item item-puppet">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/diverse_relations/1.jpg"
+                   alt="Puppet."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/diverse_relations/2.jpg"
+                   alt="Round-bird."/>
+          </div>
+        </div> -->
+
+      <!-- Supp Long Figures -->
+      <div id="results-carousel-face" class="carousel results-carousel">
+        <div class="item item-puppet">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/supp_relations/fig_supp_hanging_from_shake_hands.jpg"
+                   alt="Puppet."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/supp_relations/fig_supp_inside_a_back2back.jpg"
+                   alt="Round-bird."/>
+          </div>
+        </div>
+        <div class="item item-puppet">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/supp_relations/fig_supp_inside_b.jpg"
+                   alt="Puppet."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/supp_relations/fig_supp_ride_on_hug.jpg"
+                   alt="Round-bird."/>
+          </div>
+        </div>
+
+      </div>
+    </div>    
+
+  
+</section>
+
+<section class="section"  style="margin-top:-100px; margin-bottom:-60px;">
+  <div class="hero-body">
+
+    <div class="container is-max-desktop">
+
+      <!-- <div class="section-title">
+        <h2 class="title is-3">Diverse Relations</h2>
+      </div> -->
+      </br>
+      </br>
+      <h2 class="subtitle has-text-centered">More results.</h2>
+      
+      <!-- Single Line -->
+      <div id="results-carousel-face" class="carousel results-carousel">
+        <div class="item item-puppet">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/paper_results/result_1.jpg"
+                   alt="result."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/paper_results/result_2.jpg"
+                   alt="result."/>
+          </div>
+        </div>
+        <div class="item item-puppet">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/paper_results/result_3.jpg"
+                   alt="result."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/paper_results/result_4.jpg"
+                   alt="result."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/paper_results/result_5.jpg"
+                   alt="result."/>
+          </div>
+        </div>
+      </div>
+    
+  </div>
+</section>
+
+
+
+
+<!-- Diverse Backgrounds and Styles -->
+<section class="hero is-light is-small">
+  <div class="hero-body">
+
+
+    <div class="container is-max-desktop"   style="margin-top:30px;">
+
+      <div class="section-title">
+        <h2 class="title is-3">Diverse Backgrounds and Styles</h2>
+      </div>
+
+      <h2 class="subtitle has-text-centered">The relation inverted by ReVersion can be applied robustly to related entities in scenes with diverse backgrounds or styles.</h2>
+      
+      <!-- Single Line -->
+      <!-- <div id="results-carousel-face" class="carousel results-carousel">
+        <div class="item item-puppet">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/diverse_relations/1.jpg"
+                   alt="Puppet."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/diverse_relations/2.jpg"
+                   alt="Round-bird."/>
+          </div>
+        </div> -->
+
+      <!-- Supp Long Figures -->
+      <div id="results-carousel-face" class="carousel results-carousel">
+        <div class="item item-puppet">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/styles/styles_1.jpg"
+                   alt="Puppet."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/styles/styles_2.jpg"
+                   alt="Round-bird."/>
+          </div>
+        </div>
+        <div class="item item-puppet">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/styles/styles_3.jpg"
+                   alt="Puppet."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/styles/styles_4.jpg"
+                   alt="Round-bird."/>
+          </div>
+        </div>
+
+      </div>
+    </div>    
+
+</section>
+
+
+
+
+<!-- Robust Entity Combinations -->
+<section class="section" style="margin-top:-50px; margin-bottom:-70px;">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+
+      <div class="section-title">
+        <h2 class="title is-3">Robust Entity Combinations</h2>
+      </div>
+
+      <h2 class="subtitle has-text-centered">Inverted relation can be robustly applied to arbitrary entity combinations.</h2>
+      <div id="results-carousel-face" class="carousel results-carousel">
+        <div class="item item-puppet">
+          <div class="carousel-content">
+            <img src="assets/reversion/images/fig_supp_carved_by.jpg" style="width:100%; margin-bottom:20px;"
+                   alt="Puppet."/>
+          </div>
+        </div>
+        <div class="item item-round_bird">
+          <div class="carousel-content" style="text-align: center">
+            <img src="assets/reversion/images/fig_supp_painted_on.jpg" style="width:60%; margin-bottom:20px;"
+                   alt="Round-bird."/>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<!-- BibTeX -->
+<section class="hero is-light is-small" id="BibTeX" >
+  <div class="container is-max-desktop content" style="margin-top: 40px; margin-bottom: 20px;">
+    <h2 class="title">BibTeX</h2>
+    <p>If you find our work useful, please consider citing our paper:</p>
+    <pre><code>@article{huang2023reversion,
+      title={{ReVersion}: Diffusion-Based Relation Inversion from Images},
+      author={Huang, Ziqi and Wu, Tianxing and Jiang, Yuming and Chan, Kelvin C.K. and Liu, Ziwei},
+      journal={arXiv preprint arXiv:2303.13495},
+      year={2023}
+}</code></pre>
+  </div>
+</section>
+
+<!-- footer -->
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <a class="icon-link"
+         href="https://arxiv.org/abs/2303.13495">
+        <i class="fas fa-file-pdf"></i>
+      </a>
+      <a class="icon-link" href="https://github.com/ziqihuangg/ReVersion" class="external-link" disabled>
+        <i class="fab fa-github"></i>
+      </a>
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This website is licensed under a <a rel="license"
+                                                href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+          <p>
+            Website source code based on the <a href="https://nerfies.github.io/"> Nerfies</a> project page. If you want to reuse their <a
+              href="https://github.com/nerfies/nerfies.github.io">source code</a>, please credit them appropriately.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
