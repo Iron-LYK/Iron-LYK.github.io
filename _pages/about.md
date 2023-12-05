@@ -22,7 +22,7 @@ News
 
 Publications
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/collaborative_diffusion.jpg" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/CIT.jpg" width="160" height="140">
 ### Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose
 <p style="line-height:1.0">
 <font size="2">
@@ -30,7 +30,6 @@ Publications
 International Journal of Computer Vision (<strong>IJCV</strong>)<br /> 
 <a href="https://doi.org/10.1007/s11263-023-01935-2">Paper</a> | 
 <a href="https://github.com/Iron-LYK/CIT">Code</a>
-
 <br />
 </font>
 </p>
@@ -40,7 +39,7 @@ International Journal of Computer Vision (<strong>IJCV</strong>)<br />
 <p style="line-height:1.0">
 <font size="2">
 Yuchen Zhou, Guang Tan, Rui Zhong, <strong>Yaokun Li</strong>, Chao Gou<br />
-IEEE Transactions on Intelligent Transportation Systems (<strong>TITS</strong>)<br />
+IEEE Transactions on Intelligent Transportation Systems (<strong>TITS</strong>)
 <br />
 </font>
 </p>
@@ -50,45 +49,11 @@ IEEE Transactions on Intelligent Transportation Systems (<strong>TITS</strong>)<
 <p style="line-height:1.0">
 <font size="2">
 <strong>Yaokun Li</strong>, Yuezhao Yu, Yuliang Liu, Chao Gou<br />
-IEEE International Conference on Intelligent Transportation Systems (<strong>ITSC</strong>), 2022<br />
+IEEE International Conference on Intelligent Transportation Systems (<strong>ITSC</strong>), 2022
 <br />
 </font>
 </p>
 
-Publications
------
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/collaborative_diffusion.jpg" width="160" height="140">
-### Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose
-<p style="line-height:1.0">
-<font size="2">
-<strong>Yaokun Li</strong>, Guang Tan, Chao Gou<br />
-International Journal of Computer Vision (<strong>IJCV</strong>)<br /> 
-<a href="https://doi.org/10.1007/s11263-023-01935-2">Paper</a> | 
-<a href="https://github.com/Iron-LYK/CIT">Code</a>
-
-<br />
-</font>
-</p>
------
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/PIT.png" width="160" height="140">
-### PIT: Progressive Interaction Transformer for Pedestrian Crossing Intention Prediction
-<p style="line-height:1.0">
-<font size="2">
-Yuchen Zhou, Guang Tan, Rui Zhong, <strong>Yaokun Li</strong>, Chao Gou<br />
-IEEE Transactions on Intelligent Transportation Systems (<strong>TITS</strong>)<br />
-<br />
-</font>
-</p>
------
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/MS-GCN.png" width="160" height="140">
-### MS-GCN: Multi-Stream Graph Convolution Network for Driver Head Pose Estimation
-<p style="line-height:1.0">
-<font size="2">
-<strong>Yaokun Li</strong>, Yuezhao Yu, Yuliang Liu, Chao Gou<br />
-IEEE International Conference on Intelligent Transportation Systems (<strong>ITSC</strong>), 2022<br />
-<br />
-</font>
-</p>
 
 Awards
 -----
