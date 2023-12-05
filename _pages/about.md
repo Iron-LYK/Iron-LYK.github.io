@@ -23,102 +23,78 @@ News
 Publications
 -----
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/collaborative_diffusion.jpg" width="160" height="140">
-### Collaborative Diffusion for Multi-Modal Face Generation and Editing
+### Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose
 <p style="line-height:1.0">
 <font size="2">
-<strong>Ziqi Huang</strong>, Kelvin C.K. Chan, Yuming Jiang, Ziwei Liu†<br />
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023<br />
-<a href="https://arxiv.org/abs/2304.10530">Paper</a> | 
-<a href="https://www.youtube.com/watch?v=inLK4c8sNhc">Video</a> |
-<a href="https://github.com/ziqihuangg/Collaborative-Diffusion">Code</a> |
-<a href="https://ziqihuangg.github.io/projects/collaborative-diffusion.html">Project Page</a>
+<strong>Yaokun Li</strong>, Guang Tan, Chao Gou<br />
+International Journal of Computer Vision (<strong>IJCV</strong>)<br /> 
+<a href="https://doi.org/10.1007/s11263-023-01935-2">Paper</a> | 
+<a href="https://github.com/Iron-LYK/CIT">Code</a>
 
 <br />
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/celeba_dialog.png" width="160" height="140">
-### Talk-to-Edit: Fine-Grained Facial Editing via Dialog
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/PIT.png" width="160" height="140">
+### PIT: Progressive Interaction Transformer for Pedestrian Crossing Intention Prediction
 <p style="line-height:1.0">
 <font size="2">
-Yuming Jiang*, <strong>Ziqi Huang*</strong>, Xingang Pan, Chen Change Loy, Ziwei Liu†<br />
-IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2021<br />
-<a href="https://arxiv.org/abs/2109.04425">Paper</a> | 
-<a href="https://www.youtube.com/watch?v=ZKMkQhkMXPI">Video</a> |
-<a href="https://github.com/yumingj/Talk-to-Edit">Code</a> |
-<a href="https://www.mmlab-ntu.com/project/talkedit/index.html">Project Page</a> |
-<a href="https://github.com/ziqihuangg/CelebA-Dialog">Dataset</a>
+Yuchen Zhou, Guang Tan, Rui Zhong, <strong>Yaokun Li</strong>, Chao Gou<br />
+IEEE Transactions on Intelligent Transportation Systems (<strong>TITS</strong>)<br />
 <br />
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/icip2021_thumb.png" width="160" height="140">
-### A Diagnostic Study of Visual Question Answering with Analogical Reasoning
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/MS-GCN.png" width="160" height="140">
+### MS-GCN: Multi-Stream Graph Convolution Network for Driver Head Pose Estimation
 <p style="line-height:1.0">
 <font size="2">
-<strong>Ziqi Huang</strong>, Hongyuan Zhu†, Ying Sun, Dongkyu Choi, Cheston Tan, Joo−Hwee Lim<br />
-IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<br />
-<a href="https://ieeexplore.ieee.org/document/9506539/">Paper</a> | 
-<a href="https://www.youtube.com/watch?v=W1TLrhTKPKE">Video</a>
+<strong>Yaokun Li</strong>, Yuezhao Yu, Yuliang Liu, Chao Gou<br />
+IEEE International Conference on Intelligent Transportation Systems (<strong>ITSC</strong>), 2022<br />
 <br />
 </font>
 </p>
 
-Patents
+Publications
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/lavie.gif" width="160" height="140">
-### LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/collaborative_diffusion.jpg" width="160" height="140">
+### Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose
 <p style="line-height:1.0">
 <font size="2">
-Yaohui Wang*, Xinyuan Chen*, Xin Ma*, Shangchen Zhou, <strong>Ziqi Huang</strong>, Yi Wang, Ceuyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, Cunjian Chen, Chen Change Loy, Bo Dai, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
-arXiv Preprint, 2023 
-<a href="https://arxiv.org/abs/2309.15103">Paper</a> | 
-<a href="https://vchitect.github.io/LaVie-project/">Project Page</a> |
-<a href="https://github.com/Vchitect/LaVie">Code</a>
-<br />
-</font>
-</p>
------
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeu_teaser.jpg" width="160" height="140">
-### FreeU: Free Lunch in Diffusion U-Net
-<p style="line-height:1.0">
-<font size="2">
-Chenyang Si, <strong>Ziqi Huang</strong>, Yuming Jiang, Ziwei Liu†<br />
-arXiv Preprint, 2023<br />
-<a href="https://arxiv.org/abs/2309.11497">Paper</a> | 
-<a href="https://www.youtube.com/watch?v=-CZ5uWxvX30&t=3s">Video</a> |
-<a href="https://github.com/ChenyangSi/FreeU">Code</a> |
-<a href="https://chenyangsi.top/FreeU/">Project Page</a> |
-<a href="https://huggingface.co/spaces/Ziqi/ReVersion">Demo</a>
-<br />
-</font>
-</p>
------
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/reversion.jpg" width="160" height="140">
-### ReVersion: Diffusion-Based Relation Inversion from Images
-<p style="line-height:1.0">
-<font size="2">
-<strong>Ziqi Huang*</strong>, Tianxing Wu*, Yuming Jiang, Kelvin C.K. Chan, Ziwei Liu†<br />
-arXiv Preprint, 2023<br />
-<a href="https://arxiv.org/abs/2303.13495">Paper</a> | 
-<a href="https://www.youtube.com/watch?v=pkal3yjyyKQ">Video</a> |
-<a href="https://github.com/ziqihuangg/ReVersion">Code</a> |
-<a href="https://ziqihuangg.github.io/projects/reversion.html">Project Page</a> |
-<a href="https://drive.google.com/drive/folders/1FU1Ni-oDpxQCNYKo-ZLEfSGqO-j_Hw7X?usp=sharing">Dataset</a> |
-<a href="https://huggingface.co/spaces/ChenyangSi/FreeU">Demo</a>
-<br />
-</font>
-</p>
+<strong>Yaokun Li</strong>, Guang Tan, Chao Gou<br />
+International Journal of Computer Vision (<strong>IJCV</strong>)<br /> 
+<a href="https://doi.org/10.1007/s11263-023-01935-2">Paper</a> | 
+<a href="https://github.com/Iron-LYK/CIT">Code</a>
 
+<br />
+</font>
+</p>
+-----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/PIT.png" width="160" height="140">
+### PIT: Progressive Interaction Transformer for Pedestrian Crossing Intention Prediction
+<p style="line-height:1.0">
+<font size="2">
+Yuchen Zhou, Guang Tan, Rui Zhong, <strong>Yaokun Li</strong>, Chao Gou<br />
+IEEE Transactions on Intelligent Transportation Systems (<strong>TITS</strong>)<br />
+<br />
+</font>
+</p>
+-----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/MS-GCN.png" width="160" height="140">
+### MS-GCN: Multi-Stream Graph Convolution Network for Driver Head Pose Estimation
+<p style="line-height:1.0">
+<font size="2">
+<strong>Yaokun Li</strong>, Yuezhao Yu, Yuliang Liu, Chao Gou<br />
+IEEE International Conference on Intelligent Transportation Systems (<strong>ITSC</strong>), 2022<br />
+<br />
+</font>
+</p>
 
 Awards
 -----
-∙ \(2023\) Google PhD Fellowship<br />
-∙ \(2022\) [The Global Undergraduate Award](https://undergraduateawards.com/winners/regional-winners-2022) Regional Winner (Asia)<br />
-∙ \(2022\) [Lee Kuan Yew Gold Medal](https://www.ntu.edu.sg/eee/about-us/student-awards) (Top 1 in Undergraduate Cohort)<br />
-∙ \(2020 & 2021\) NTU President Research Scholar<br />
-∙ \(2019 & 2022\) Dean’s List (School of Electrical and Electronic Engineering)<br />
-∙ \(2018\) NTU Science and Engineering Undergraduate Scholarship<br />
+∙ \(2023\) Third Prize of 2023 "Huawei Cup" National Graduate Student Mathematical Modeling Competition<br />
+∙ \(2022\) honorable mention in HACKPKU 2022<br />
+∙ \(2019\) National Scholarship in China<br />
 
 Academic Service
 -----
