@@ -22,14 +22,13 @@ News
   
 Publications 
 ----- 
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/CIT.jpg" width="160" height="140"> 
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/CIT.png" width="160" height="140"> 
 ### Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose 
 <p style="line-height:1.0"> 
 <font size="2"> 
 <strong>Yaokun Li</strong>, Guang Tan, Chao Gou<br /> 
 International Journal of Computer Vision (<strong>IJCV</strong>)<br />  
   International Journal of Computer Vision
-
 <a href="https://doi.org/10.1007/s11263-023-01935-2">Paper</a> | 
 <a href="https://github.com/Iron-LYK/CIT">Code</a>
 
