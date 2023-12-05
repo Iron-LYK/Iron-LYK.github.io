@@ -28,7 +28,6 @@ Publications
 <font size="2"> 
 <strong>Yaokun Li</strong>, Guang Tan, Chao Gou<br /> 
 International Journal of Computer Vision (<strong>IJCV</strong>)<br />  
-  International Journal of Computer Vision
 <a href="https://doi.org/10.1007/s11263-023-01935-2">Paper</a> | 
 <a href="https://github.com/Iron-LYK/CIT">Code</a>
 
