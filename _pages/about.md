@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
   
-Yaokun Li is currently a first-year Ph.D. student (third year of the master-doctor combind program, expected to graduate in spring 2026) in the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by [Prof. Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm) and [Prof. Chao Gou](https://chaogou.github.io/). Previously, he received B.Eng. degree in Vehicle Engineering from Wuhan University of Technology in 2021. His research interests focus on generalizable 3D content generation, 3D face/body reconstruction, face analysis and editing. 
+Yaokun Li is currently a first-year Ph.D. student (third year of the master-doctor combind program, expected to graduate in spring 2026) in the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by [Prof. Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm) and [Prof. Chao Gou](https://chaogou.github.io/). Previously, he received B.Eng. degree in Vehicle Engineering from Wuhan University of Technology in 2021. His research interests focus on generalizable neural representation, 3D face/body reconstruction, face analysis and editing. 
 
-[Google Scholar](https://scholar.google.com/citations?user=ui5j3QUAAAAJ&hl=en&oi=ao) / [Github](https://github.com/Iron-LYK) / [CSDN](https://blog.csdn.net/DUDUDUTU?spm=1000.2115.3001.5343) / [Email](liyk58@mail2.sysu.edu.cn) 
+[Google Scholar](https://scholar.google.com.hk/citations?hl=en&view_op=list_works&authuser=1&gmla=AH70aAXzHZsmUfNdNZ-ZxUUQch_wz3OjkERjPqQVZklCFS9UTowHTxCJWtp60drsx3o3-Ra6hCbX7ymcWN_1PJZddFg7&user=plCD9wwAAAAJ) / [Github](https://github.com/Iron-LYK) / [CSDN](https://blog.csdn.net/DUDUDUTU?spm=1000.2115.3001.5343) / [Email](liyk58@mail2.sysu.edu.cn) 
   
    
 News 
@@ -40,6 +40,7 @@ International Journal of Computer Vision (<strong>IJCV</strong>)<br />
 <font size="2"> 
 Yuchen Zhou, Guang Tan, Rui Zhong, <strong>Yaokun Li</strong>, Chao Gou<br /> 
 IEEE Transactions on Intelligent Transportation Systems (<strong>TITS</strong>)<br /> 
+<a href="https://ieeexplore.ieee.org/abstract/document/10247098">Paper</a>
 <br /> 
 </font> 
 </p> 
@@ -50,6 +51,7 @@ IEEE Transactions on Intelligent Transportation Systems (<strong>TITS</strong>)<
 <font size="2"> 
 <strong>Yaokun Li</strong>, Yuezhao Yu, Yuliang Liu, Chao Gou<br /> 
 IEEE International Conference on Intelligent Transportation Systems (<strong>ITSC</strong>), 2022<br /> 
+<a href="https://ieeexplore.ieee.org/abstract/document/9922277">Paper</a>
 <br /> 
 </font> 
 </p> 
