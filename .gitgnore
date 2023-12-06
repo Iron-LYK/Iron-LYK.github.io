@@ -1,0 +1,13 @@
+_site/
+projects/trash
+projects/assets/reversion/images/*.pptx
+projects/assets/reversion/images/*.pdf
+projects/assets/reversion/images/*/*.pptx
+projects/assets/reversion/images/*/*pdf
+
+projects/assets/collaborative-diffusion/images/*.pptx
+projects/assets/collaborative-diffusion/images/*.pdf
+projects/assets/collaborative-diffusion/images/*/*.pptx
+projects/assets/collaborative-diffusion/images/*/*pdf
+
+*.DS_Store
