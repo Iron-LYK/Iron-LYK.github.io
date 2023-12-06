@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Yaokun Li"
-title_separator          : "-"
-name                     : &name "Yaokun Li"
-description              : &description "personal description"
-url                      : https://yaokunli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Iron_LYK/yaokunli.github.io"
+locale: "en-US"
+title: "Ziqi Huang"
+title_separator: "-"
+name: &name "Ziqi Huang"
+description: &description "personal description"
+url: https://ziqihuangg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "" # the subpath of your site, e.g. "/blog"
+repository: "ziqihuangg/ziqihuangg.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
@@ -50,10 +50,10 @@ atom_feed:
   path: # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+google_site_verification:
+bing_site_verification:
+alexa_site_verification:
+yandex_site_verification:
 
 # Social Sharing
 twitter:
@@ -76,45 +76,43 @@ analytics:
   google:
     tracking_id:
 
-
 # Site Author
 author:
-  name             : "Yaokun Li 李垚坤"
-  avatar           : "profile.png"
-  bio              : "PhD Student at SYSU"
-  location         : "Shenzhen"
-  employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=ui5j3QUAAAAJ&hl=zh-CN"
-  email            : 'liyk58@mail2.sysu.edu.cn'
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "https://github.com/Iron-LYK"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "https://twitter.com/iron_lyk"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
+  name: "Ziqi Huang 黄子琪"
+  avatar: "ziqi_huang.jpg"
+  bio: "PhD Student at MMLab@NTU"
+  location: "Singapore"
+  employer:
+  pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar: "https://scholar.google.com/citations?user=Y3h_pzMAAAAJ&hl=en"
+  email: "ZIQI002@e.ntu.edu.sg"
+  researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
+  uri:
+  bitbucket:
+  codepen:
+  dribbble:
+  flickr:
+  facebook:
+  foursquare:
+  github: "ziqihuangg"
+  google_plus:
+  keybase:
+  instagram:
+  impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm:
+  linkedin: "ziqi-huang-435875176"
+  orcid: # "http://orcid.org/yourorcidurl"
+  pinterest:
+  soundcloud:
+  stackoverflow: # http://stackoverflow.com/users/123456/username
+  steam:
+  tumblr:
+  twitter: "ziqi_huang_"
+  vine:
+  weibo:
+  xing:
+  youtube:
+  wikipedia:
 
 # Reading Files
 include:
