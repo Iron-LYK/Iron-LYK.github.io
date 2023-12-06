@@ -59,7 +59,7 @@ IEEE International Conference on Intelligent Transportation Systems (<strong>ITS
 Awards 
 ----- 
 ∙ \(2023\) Third Prize of 2023 "Huawei Cup" National Graduate Student Mathematical Modeling Competition<br /> 
-∙ \(2022\) honorable mention in HACKPKU 2022<br /> 
+∙ \(2022\) Honorable mention in HACKPKU 2022<br /> 
 ∙ \(2019\) National Scholarship in China<br /> 
 
 Academic Service 
