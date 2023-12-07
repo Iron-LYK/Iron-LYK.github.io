@@ -60,7 +60,7 @@ Awards
 ----- 
 ∙ \(2023\) Third Prize of 2023 "Huawei Cup" National Graduate Student Mathematical Modeling Competition<br /> 
 ∙ \(2022\) Honorable mention in HACKPKU 2022<br /> 
-∙ \(2019\) National Scholarship in China<br /> 
+∙ \(2019\) National Scholarship<br /> 
 
 Academic Service 
 ----- 
