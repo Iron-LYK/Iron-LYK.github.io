@@ -60,7 +60,7 @@ IEEE International Conference on Intelligent Transportation Systems (<strong>ITS
 </p> 
 
 <br/>
-<br/>
+
 
 Awards 
 ----- 
@@ -68,14 +68,14 @@ Awards
 ∙ \(2022\) Honorable mention in HACKPKU 2022<br /> 
 ∙ \(2019\) China National Scholarship<br /> 
 
-<br/>
+
 
 Academic Service 
 ----- 
 Reviewer:<br /> 
 ∙ Conference Reviewer: ICRA, ITSC<br /> 
 ∙ Journal Reviewer: IJCV, TIV<br /> 
-<br/>
+
 
 Teaching 
 ----- 
