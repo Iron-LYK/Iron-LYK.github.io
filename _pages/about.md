@@ -43,7 +43,6 @@ arXiv Preprint, 2024 <br />
 <br />
 </font>
 </p>
-<br/>
 
 📑 Publications 
 ----- 
