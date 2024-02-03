@@ -37,7 +37,8 @@ Moreover, I am also interested in face analysis/editing, which I have done some 
 ### Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance
 <p style="line-height:1.0">
 <font size="2">
-<strong>Yaokun Li</strong>, Chao Gou, Guang Tan (arXiv Preprint, 2024) <br /> 
+<strong>Yaokun Li</strong>, Chao Gou, Guang Tan <br /> 
+arXiv Preprint, 2024 <br />
 <a href="https://arxiv.org/search/cs">Paper</a>
 <br />
 </font>
