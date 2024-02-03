@@ -7,9 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  
-I’m currently a Ph.D. student (third year of the five-year successive master-doctor program, expected to graduate in spring 2026) in the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by [Prof. Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm) and [Assoc. Prof. Chao Gou](https://chaogou.github.io/). Previously, I obtained my B.Eng. degree in Vehicle Engineering from Wuhan University of Technology in 2021.<br /> 
+Greetings! Welcome to the website of Yaokun Li.  
 
+I am a third-year master's student in the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by [Prof. Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm) and [Assoc. Prof. Chao Gou](https://chaogou.github.io/). Prior to this, I earned my B.Eng. degree in Vehicle Engineering from [Wuhan University of Technology](http://english.whut.edu.cn/) in 2021.<br /> 
+
+I have a broad interest in the exciting field of 3D vision, focusing mainly on:
+**∙** Generalizable neural representations: xxx
+**∙** 
 My research interests focus on generalizable neural representations, 3D reconstruction, and face analysis/editing, with a long-term research goal of advancing lightweight, generalizable representation learning for 3D objects/scenes to achieve effective 3D representations tailored for real-world applications.
 
 I am currently seeking a self-funded visiting Ph.D. student position, financed by the China Scholarship Council (CSC). If this aligns with your research team, please don't hesitate to contact me via email.
@@ -17,12 +21,12 @@ I am currently seeking a self-funded visiting Ph.D. student position, financed b
 [Google Scholar](https://scholar.google.com.hk/citations?hl=en&view_op=list_works&authuser=1&gmla=AH70aAXzHZsmUfNdNZ-ZxUUQch_wz3OjkERjPqQVZklCFS9UTowHTxCJWtp60drsx3o3-Ra6hCbX7ymcWN_1PJZddFg7&user=plCD9wwAAAAJ) / [Github](https://github.com/Iron-LYK) / [LinkedIn](https://www.linkedin.com/in/yaokun-li-83a9872a3/) / [CSDN](https://blog.csdn.net/DUDUDUTU?spm=1000.2115.3001.5343) / <a href="https://Iron-LYK.github.io/files/CV.pdf">CV</a>
   
    
-News 
+🔥 News 🚀
 ----- 
-∙ [11/2023] One paper \([CIT](https://link.springer.com/article/10.1007/s11263-023-01935-2)\) is accepted to [IJCV](https://www.springer.com/journal/11263)<br /> 
-∙ [09/2023] One paper \([PIT](https://ieeexplore.ieee.org/abstract/document/10247098)\) is accepted to [TITS](http://iccv2021.thecvf.com)<br /> 
-∙ [07/2022] One paper \([MS-GCN](https://ieeexplore.ieee.org/abstract/document/9922277/)\) is accepted to [ITSC 2022](https://www.ieee-itsc2022.org/#/)<br /> 
-∙ [09/2021] Start my journey at [ISE@SYSU](https://ise.sysu.edu.cn/) 
+**∙** [11/2023] One paper \([CIT](https://link.springer.com/article/10.1007/s11263-023-01935-2)\) is accepted to [IJCV](https://www.springer.com/journal/11263)<br /> 
+**∙** [09/2023] One paper \([PIT](https://ieeexplore.ieee.org/abstract/document/10247098)\) is accepted to [TITS](http://iccv2021.thecvf.com)<br /> 
+**∙** [07/2022] One paper \([MS-GCN](https://ieeexplore.ieee.org/abstract/document/9922277/)\) is accepted to [ITSC 2022](https://www.ieee-itsc2022.org/#/)<br /> 
+**∙** [09/2021] Start my journey at [ISE@SYSU](https://ise.sysu.edu.cn/) 
 
 
 Publications 
@@ -32,7 +36,7 @@ Publications
 <p style="line-height:1.0"> 
 <font size="2"> 
 <strong>Yaokun Li</strong>, Guang Tan, Chao Gou<br /> 
-International Journal of Computer Vision (<strong>IJCV</strong>)<br /> 
+International Journal of Computer Vision (<strong>IJCV 2023</strong>)<br /> 
 <a href="https://doi.org/10.1007/s11263-023-01935-2">Paper</a> | 
 <a href="https://github.com/Iron-LYK/CIT">Code</a>
 <br />
@@ -44,7 +48,7 @@ International Journal of Computer Vision (<strong>IJCV</strong>)<br />
 <p style="line-height:1.0"> 
 <font size="2"> 
 Yuchen Zhou, Guang Tan, Rui Zhong, <strong>Yaokun Li</strong>, Chao Gou<br /> 
-IEEE Transactions on Intelligent Transportation Systems (<strong>TITS</strong>)<br /> 
+IEEE Transactions on Intelligent Transportation Systems (<strong>TITS 2023</strong>)<br /> 
 <a href="https://ieeexplore.ieee.org/abstract/document/10247098">Paper</a>
 <br /> 
 </font> 
@@ -55,7 +59,7 @@ IEEE Transactions on Intelligent Transportation Systems (<strong>TITS</strong>)<
 <p style="line-height:1.0"> 
 <font size="2"> 
 <strong>Yaokun Li</strong>, Yuezhao Yu, Yuliang Liu, Chao Gou<br /> 
-IEEE International Conference on Intelligent Transportation Systems (<strong>ITSC</strong>), 2022<br /> 
+IEEE International Conference on Intelligent Transportation Systems (<strong>ITSC 2022</strong>)<br /> 
 <a href="https://ieeexplore.ieee.org/abstract/document/9922277">Paper</a>
 <br /> 
 </font> 
