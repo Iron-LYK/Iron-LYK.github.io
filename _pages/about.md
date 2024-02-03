@@ -1,32 +1,30 @@
 ---
 permalink: /
-title: "Yaokun Li"
+title: "Homepage"
 excerpt: "Greetings! 😆 Welcome to the website of Yaokun Li. "
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
- 
 
 I am a third-year master's student in the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by [Prof. Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm) and [Assoc. Prof. Chao Gou](https://chaogou.github.io/). Prior to this, I earned my B.Eng. degree in Vehicle Engineering from [Wuhan University of Technology](http://english.whut.edu.cn/) in 2021.<br /> 
 
-I have a broad interest in the exciting field of 3D vision, focusing mainly on:\\
-👉 **Generalizable neural representations:** Achieve effective 3D representations tailored for real-world applications
-👉 **3D Reconstruction/Editing:** 
-My research interests focus on generalizable neural representations, 3D reconstruction, and face analysis/editing, with a long-term research goal of advancing lightweight, generalizable representation learning for 3D objects/scenes to achieve effective 3D representations tailored for real-world applications.
-
-I am currently seeking a self-funded visiting Ph.D. student position, financed by the China Scholarship Council (CSC). If this aligns with your research team, please don't hesitate to contact me via email.
+I have a broad interest in the exciting field of 3D vision, focusing mainly on:<br />
+👉 **Generalizable neural representations:** Dedicated to advancing lightweight, generalizable 3D representations for future general AI.<br />
+👉 **Sparse-view 3D Reconstruction/Generation:** Striving to solve the ill-posed spare reconstruction issue, especially from a generative perspective.<br />
+Moreover, I am also interested in face analysis/editing, which I have done some work on before.<br />
 
 [Google Scholar](https://scholar.google.com.hk/citations?hl=en&view_op=list_works&authuser=1&gmla=AH70aAXzHZsmUfNdNZ-ZxUUQch_wz3OjkERjPqQVZklCFS9UTowHTxCJWtp60drsx3o3-Ra6hCbX7ymcWN_1PJZddFg7&user=plCD9wwAAAAJ) / [Github](https://github.com/Iron-LYK) / [LinkedIn](https://www.linkedin.com/in/yaokun-li-83a9872a3/) / [CSDN](https://blog.csdn.net/DUDUDUTU?spm=1000.2115.3001.5343) / <a href="https://Iron-LYK.github.io/files/CV.pdf">CV</a>
   
    
-🔥 News 🚀
+🔥 News 🔥
 ----- 
-**∙** [11/2023] One paper \([CIT](https://link.springer.com/article/10.1007/s11263-023-01935-2)\) is accepted to [IJCV](https://www.springer.com/journal/11263)<br /> 
-**∙** [09/2023] One paper \([PIT](https://ieeexplore.ieee.org/abstract/document/10247098)\) is accepted to [TITS](http://iccv2021.thecvf.com)<br /> 
-**∙** [07/2022] One paper \([MS-GCN](https://ieeexplore.ieee.org/abstract/document/9922277/)\) is accepted to [ITSC 2022](https://www.ieee-itsc2022.org/#/)<br /> 
-**∙** [09/2021] Start my journey at [ISE@SYSU](https://ise.sysu.edu.cn/) 
+**∙** [2024.02] 🌟🌟 Our new work, ID-NeRF, is released! Please check it on arXiv.<br />
+**∙** [2023.11] 🎉🎉 One paper \([CIT](https://link.springer.com/article/10.1007/s11263-023-01935-2)\) is accepted to **IJCV**<br /> 
+**∙** [2023.09] 🎉🎉 One paper \([PIT](https://ieeexplore.ieee.org/abstract/document/10247098)\) is accepted to TITS<br /> 
+**∙** [2022.07] 🎉🎉 One paper \([MS-GCN](https://ieeexplore.ieee.org/abstract/document/9922277/)\) is accepted to ITSC 2022<br /> 
+**∙** [2021.09] 🚀🚀 Start my journey at [ISE@SYSU](https://ise.sysu.edu.cn/) 
 
 
 Publications 
