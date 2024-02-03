@@ -84,7 +84,7 @@ IEEE International Conference on Intelligent Transportation Systems (<strong>ITS
 
 🏆 Awards 
 ----- 
-∙ \(2019\) China National Scholarship<br /> 
+∙ \(2019\) **China National Scholarship**<br /> 
 ∙ \(2020\) Polytechnic Youth Top Ten Students<br /> 
 ∙ \(2022\) Honorable mention in HACKPKU 2022<br /> 
 ∙ \(2023\) Third Prize of 2023 "Huawei Cup" National Graduate Student Mathematical Modeling Competition<br /> 
