@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Homepage"
-excerpt: "Greetings! 😆 Welcome to the website of Yaokun Li. "
+title: "Greetings! 😆 Welcome to the website of Yaokun Li."
+excerpt: "Homepage"
 author_profile: true
 redirect_from:
   - /about/
