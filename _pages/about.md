@@ -1,4 +1,4 @@
----
+![image](https://github.com/Iron-LYK/Iron-LYK.github.io/assets/74582832/aaace800-ebde-443e-a08c-d424a6c52f3e)![image](https://github.com/Iron-LYK/Iron-LYK.github.io/assets/74582832/4406fc48-8f3d-4cc0-8db6-684c7edb9b48)---
 permalink: /
 title: "Greetings! 😆"
 excerpt: "Homepage"
@@ -84,7 +84,8 @@ IEEE International Conference on Intelligent Transportation Systems (<strong>ITS
 
 🏆 Awards 
 ----- 
-∙ \(2019\) **China National Scholarship**<br /> 
+∙ \(2019\) China National Scholarship<br /> 
+∙ \(2020\) Polytechnic Youth Top Ten Students<br /> 
 ∙ \(2022\) Honorable mention in HACKPKU 2022<br /> 
 ∙ \(2023\) Third Prize of 2023 "Huawei Cup" National Graduate Student Mathematical Modeling Competition<br /> 
 
