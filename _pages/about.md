@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am a third-year master's student in the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by [Prof. Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm) and [Assoc. Prof. Chao Gou](https://chaogou.github.io/). Prior to this, I earned my B.Eng. degree from the School of Automotive Engineering at [Wuhan University of Technology](http://english.whut.edu.cn/) in 2021.<br /> 
+I am honored to be pursuing my Masters in the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by [Prof. Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm) and [Assoc. Prof. Chao Gou](https://chaogou.github.io/). Prior to this, I earned my B.Eng. degree from the School of Automotive Engineering at [Wuhan University of Technology](http://english.whut.edu.cn/) in 2021.<br /> 
 
 I have a broad interest in the exciting field of 3D vision, focusing mainly on:<br />
 
@@ -39,24 +39,25 @@ Publications
 ### Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance 
 <p style="line-height:1.0"> 
 <font size="2"> 
-<strong>Yaokun Li</strong>, Chao Gou, Guang Tan<br /> 
-<a href="https://doi.org/10.1007/s11263-023-01935-2">arXiv
+<strong>Yaokun Li</strong>, Chao Gou, Guang Tan <br /> 
+arXiv Preprint, 2023<br /> 
+<a href="xxx">Paper</a>
 <br />
 </font>
 </p>
-
+---
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/CIT.png" width="160" height="140"> 
 ### Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose 
 <p style="line-height:1.0"> 
 <font size="2"> 
-<strong>Yaokun Li</strong>, Guang Tan, Chao Gou<br /> 
+<strong>Yaokun Li</strong>, Guang Tan, Chao Gou <br /> 
 International Journal of Computer Vision (<strong>IJCV 2023</strong>)<br /> 
 <a href="https://doi.org/10.1007/s11263-023-01935-2">Paper</a> | 
 <a href="https://github.com/Iron-LYK/CIT">Code</a>
 <br />
 </font>
 </p>
-
+---
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/PIT.png" width="160" height="140"> 
 ### PIT: Progressive Interaction Transformer for Pedestrian Crossing Intention Prediction 
 <p style="line-height:1.0"> 
@@ -67,7 +68,7 @@ IEEE Transactions on Intelligent Transportation Systems (<strong>TITS 2023</stro
 <br /> 
 </font> 
 </p> 
-
+---
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/MS-GCN.png" width="160" height="140"> 
 ### MS-GCN: Multi-Stream Graph Convolution Network for Driver Head Pose Estimation 
 <p style="line-height:1.0"> 
