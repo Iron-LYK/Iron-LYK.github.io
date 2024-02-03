@@ -32,7 +32,7 @@ Moreover, I am also interested in face analysis/editing, which I have done some 
 **∙** [2021.09] 🚀🚀 Start my journey at [ISE@SYSU](https://ise.sysu.edu.cn/) 
 
 
-Preprints 
+📑 Preprints 
 ----- 
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/ID-NeRF.png" width="160" height="140"> 
 ### Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance 
@@ -46,7 +46,7 @@ arXiv Preprint, 2024<br />
 </p>
 
 
-Publications 
+📑 Publications 
 ----- 
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/CIT.png" width="160" height="140"> 
 ### Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose 
@@ -93,17 +93,17 @@ IEEE International Conference on Intelligent Transportation Systems (<strong>ITS
 
 
 
-📝Academic Service 
+📝 Academic Service 
 ----- 
 Reviewer:<br /> 
 ∙ Journal Reviewer: IJCV, TIV<br /> 
 ∙ Conference Reviewer: ITSC<br /> 
 
 
-📖Teaching 
+📖 Teaching 
 ----- 
 ∙ Teaching Assistant: ISE3111 Pattern Recognition & Machine Learning, SYSU, 2022 Fall 
 
-Hobbies
+🥰 Hobbies
 ----- 
-🏃‍♂️ 🏀 🏋 🎧
+🏃‍♂️ 🏀 🏋 🎧 📷
