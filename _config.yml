@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of LYK"
+title                    : "LYK's Homepage"
 title_separator          : "-"
 name                     : &name "Yaokun Li"
 description              : &description "personal description"
