@@ -33,7 +33,7 @@ Moreover, I am also interested in face analysis/editing, which I have done some 
 
 📑 Preprints 
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/ID-NeRF_v2.png" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/ID-NeRF.png" width="160" height="140">
 ### Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance
 <p style="line-height:1.0">
 <font size="2">
@@ -43,7 +43,7 @@ arXiv Preprint, 2024 <br />
 <br />
 </font>
 </p>
-
+<br/>
 
 📑 Publications 
 ----- 
