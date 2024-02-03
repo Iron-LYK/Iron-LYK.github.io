@@ -34,7 +34,6 @@ Moreover, I am also interested in face analysis/editing, which I have done some 
 
 Preprints 
 ----- 
-
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/ID-NeRF.png" width="160" height="140"> 
 ### Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance 
 <p style="line-height:1.0"> 
@@ -46,9 +45,9 @@ arXiv Preprint, 2024<br />
 </font>
 </p>
 
+
 Publications 
 ----- 
-
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/CIT.png" width="160" height="140"> 
 ### Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose 
 <p style="line-height:1.0"> 
@@ -105,7 +104,6 @@ Reviewer:<br />
 ----- 
 ∙ Teaching Assistant: ISE3111 Pattern Recognition & Machine Learning, SYSU, 2022 Fall 
 
-Other
+Hobbies
 ----- 
 🏃‍♂️ 🏀 🏋 🎧
-∙ refer to xingyi yang，
