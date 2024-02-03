@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am a third-year master's student in the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by [Prof. Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm) and [Assoc. Prof. Chao Gou](https://chaogou.github.io/). Prior to this, I earned my B.Eng. degree in Vehicle Engineering from [Wuhan University of Technology](http://english.whut.edu.cn/) in 2021.<br /> 
+I am a third-year master's student in the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by [Prof. Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm) and [Assoc. Prof. Chao Gou](https://chaogou.github.io/). Prior to this, I earned my B.Eng. degree from the School of Automotive Engineering at [Wuhan University of Technology](http://english.whut.edu.cn/) in 2021.<br /> 
 
 I have a broad interest in the exciting field of 3D vision, focusing mainly on:<br />
 
@@ -34,6 +34,7 @@ Moreover, I am also interested in face analysis/editing, which I have done some 
 
 Publications 
 ----- 
+
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/CIT.png" width="160" height="140"> 
 ### Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance 
 <p style="line-height:1.0"> 
@@ -43,7 +44,7 @@ Publications
 <br />
 </font>
 </p>
------ 
+
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/CIT.png" width="160" height="140"> 
 ### Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose 
 <p style="line-height:1.0"> 
@@ -55,7 +56,7 @@ International Journal of Computer Vision (<strong>IJCV 2023</strong>)<br />
 <br />
 </font>
 </p>
------ 
+
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/PIT.png" width="160" height="140"> 
 ### PIT: Progressive Interaction Transformer for Pedestrian Crossing Intention Prediction 
 <p style="line-height:1.0"> 
@@ -66,7 +67,7 @@ IEEE Transactions on Intelligent Transportation Systems (<strong>TITS 2023</stro
 <br /> 
 </font> 
 </p> 
------ 
+
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/MS-GCN.png" width="160" height="140"> 
 ### MS-GCN: Multi-Stream Graph Convolution Network for Driver Head Pose Estimation 
 <p style="line-height:1.0"> 
@@ -77,7 +78,6 @@ IEEE International Conference on Intelligent Transportation Systems (<strong>ITS
 <br /> 
 </font> 
 </p> 
-
 <br/>
 
 
