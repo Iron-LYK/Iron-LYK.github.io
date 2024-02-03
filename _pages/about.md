@@ -99,10 +99,12 @@ Reviewer:<br />
 ∙ Conference Reviewer: ITSC<br /> 
 
 
+
 📖 Teaching 
 ----- 
 ∙ Teaching Assistant: ISE3111 Pattern Recognition & Machine Learning, SYSU, 2022 Fall 
 
-🥰 Hobbies
+
+😻 My Hobbies
 ----- 
-🏃‍♂️ 🏀 🏋 🎧 📷
+🏃‍♂️ 🏀 🏋 🎧 📷 ...
