@@ -23,7 +23,7 @@ Moreover, I am also interested in face analysis/editing, which I have done some 
    
 🔥 News 🔥
 ----- 
-**∙** [2024.02] 🌟🌟 Our new work, ID-NeRF, is released! Please check it on \([arXiv](https://link.springer.com/article/10.1007/s11263-023-01935-2)\).<br />
+**∙** [2024.02] 🌟🌟 Our new work, ID-NeRF, is released! Please check it on [arXiv](https://link.springer.com/article/10.1007/s11263-023-01935-2).<br />
 **∙** [2023.11] 🎉🎉 One paper CIT is accepted to IJCV<br /> 
 **∙** [2023.09] 🎉🎉 One paper PIT is accepted to TITS<br /> 
 **∙** [2022.07] 🎉🎉 One paper MS-GCN is accepted to ITSC 2022<br /> 
@@ -41,7 +41,6 @@ Publications
 <br />
 </font>
 </p>
------ 
 ----- 
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/CIT.png" width="160" height="140"> 
 ### Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose 
@@ -103,4 +102,4 @@ Reviewer:<br />
 Other
 ----- 
 🏃‍♂️ 🏀 🏋 🎧
-∙ 参考xingyi yang两个写，
+∙ refer to xingyi yang，
