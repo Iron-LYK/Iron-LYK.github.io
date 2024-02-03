@@ -30,6 +30,17 @@ Moreover, I am also interested in face analysis/editing, which I have done some 
 Publications 
 ----- 
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/CIT.png" width="160" height="140"> 
+### Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance 
+<p style="line-height:1.0"> 
+<font size="2"> 
+<strong>Yaokun Li</strong>, Chao Gou, Guang Tan<br /> 
+<a href="https://doi.org/10.1007/s11263-023-01935-2">arXiv
+<br />
+</font>
+</p>
+----- 
+----- 
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/CIT.png" width="160" height="140"> 
 ### Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose 
 <p style="line-height:1.0"> 
 <font size="2"> 
@@ -66,21 +77,27 @@ IEEE International Conference on Intelligent Transportation Systems (<strong>ITS
 <br/>
 
 
-Awards 
+🏆 Awards 
 ----- 
-∙ \(2023\) Third Prize of 2023 "Huawei Cup" National Graduate Student Mathematical Modeling Competition<br /> 
+∙ \(2019\) **China National Scholarship**<br /> 
 ∙ \(2022\) Honorable mention in HACKPKU 2022<br /> 
-∙ \(2019\) China National Scholarship<br /> 
+∙ \(2023\) Third Prize of 2023 "Huawei Cup" National Graduate Student Mathematical Modeling Competition<br /> 
 
 
 
-Academic Service 
+
+📝Academic Service 
 ----- 
 Reviewer:<br /> 
-∙ Conference Reviewer: ICRA, ITSC<br /> 
 ∙ Journal Reviewer: IJCV, TIV<br /> 
+∙ Conference Reviewer: ITSC<br /> 
 
 
-Teaching 
+📖Teaching 
 ----- 
 ∙ Teaching Assistant: ISE3111 Pattern Recognition & Machine Learning, SYSU, 2022 Fall 
+
+Other
+----- 
+🏃‍♂️ 🏀 🏋 🎧
+∙ 参考xingyi yang两个写，
