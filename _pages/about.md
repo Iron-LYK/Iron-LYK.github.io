@@ -1,19 +1,19 @@
 ---
 permalink: /
 title: "Yaokun Li"
-excerpt: "Yaokun Li"
+excerpt: "Greetings! 😆 Welcome to the website of Yaokun Li. "
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-Greetings! Welcome to the website of Yaokun Li.  
+ 
 
 I am a third-year master's student in the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by [Prof. Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm) and [Assoc. Prof. Chao Gou](https://chaogou.github.io/). Prior to this, I earned my B.Eng. degree in Vehicle Engineering from [Wuhan University of Technology](http://english.whut.edu.cn/) in 2021.<br /> 
 
-I have a broad interest in the exciting field of 3D vision, focusing mainly on:
-**∙** Generalizable neural representations: xxx
-**∙** 
+I have a broad interest in the exciting field of 3D vision, focusing mainly on:\\
+👉 **Generalizable neural representations:** Achieve effective 3D representations tailored for real-world applications
+👉 **3D Reconstruction/Editing:** 
 My research interests focus on generalizable neural representations, 3D reconstruction, and face analysis/editing, with a long-term research goal of advancing lightweight, generalizable representation learning for 3D objects/scenes to achieve effective 3D representations tailored for real-world applications.
 
 I am currently seeking a self-funded visiting Ph.D. student position, financed by the China Scholarship Council (CSC). If this aligns with your research team, please don't hesitate to contact me via email.
