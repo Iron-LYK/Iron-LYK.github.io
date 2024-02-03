@@ -24,7 +24,7 @@ Moreover, I am also interested in face analysis/editing, which I have done some 
    
 🔥 News 🔥
 ----- 
-**∙** [2024.02] 🌟🌟 Our new work, ID-NeRF, is released! Please check it on [arXiv](https://link.springer.com/article/10.1007/s11263-023-01935-2).<br />
+**∙** [2024.02] 🌟🌟 Our new work, ID-NeRF, is released! Please check it on [arXiv](https://arxiv.org/search/cs).<br />
 **∙** [2023.11] 🎉🎉 One paper CIT is accepted to IJCV<br /> 
 **∙** [2023.09] 🎉🎉 One paper PIT is accepted to TITS<br /> 
 **∙** [2022.07] 🎉🎉 One paper MS-GCN is accepted to ITSC 2022<br /> 
