@@ -20,7 +20,7 @@ I have a broad interest in the exciting field of 3D vision, focusing mainly on:<
 
 Moreover, I am also interested in face analysis/editing, which I have done some work on before.<br />
 
-[Google Scholar](https://scholar.google.com.hk/citations?hl=en&view_op=list_works&authuser=1&gmla=AH70aAXzHZsmUfNdNZ-ZxUUQch_wz3OjkERjPqQVZklCFS9UTowHTxCJWtp60drsx3o3-Ra6hCbX7ymcWN_1PJZddFg7&user=plCD9wwAAAAJ) / [Github](https://github.com/Iron-LYK) / [LinkedIn](https://www.linkedin.com/in/yaokun-li-83a9872a3/) / [CSDN](https://blog.csdn.net/DUDUDUTU?spm=1000.2115.3001.5343) / <a href="https://Iron-LYK.github.io/files/CV_v2.pdf">CV</a>
+[Google Scholar](https://scholar.google.com.hk/citations?hl=en&view_op=list_works&authuser=1&gmla=AH70aAXzHZsmUfNdNZ-ZxUUQch_wz3OjkERjPqQVZklCFS9UTowHTxCJWtp60drsx3o3-Ra6hCbX7ymcWN_1PJZddFg7&user=plCD9wwAAAAJ) / [Github](https://github.com/Iron-LYK) / [LinkedIn](https://www.linkedin.com/in/yaokun-li-83a9872a3/) / [CSDN](https://blog.csdn.net/DUDUDUTU?spm=1000.2115.3001.5343) / <a href="https://Iron-LYK.github.io/files/CV.pdf">CV</a>
   
    
 🔥 News 🔥
@@ -34,7 +34,7 @@ Moreover, I am also interested in face analysis/editing, which I have done some 
 
 Preprints 
 ----- 
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/ID-NeRF_v2.png" width="160" height="140"> 
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/ID-NeRF.png" width="160" height="140"> 
 ### Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance 
 <p style="line-height:1.0"> 
 <font size="2"> 
