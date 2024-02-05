@@ -24,7 +24,7 @@ Moreover, I am also interested in face analysis/editing, which I have done some 
    
 🔥 News 🔥
 ----- 
-**∙** [2024.02] 🌟🌟 Our new work, ID-NeRF, is released! Please check it on [arXiv](https://arxiv.org/search/cs).<br />
+**∙** [2024.02] 🌟🌟 Our new work, ID-NeRF, is released! Check it out via [here](https://arxiv.org/pdf/2402.01217.pdf).<br />
 **∙** [2023.11] 🎉🎉 One paper CIT is accepted to IJCV<br /> 
 **∙** [2023.09] 🎉🎉 One paper PIT is accepted to TITS<br /> 
 **∙** [2022.07] 🎉🎉 One paper MS-GCN is accepted to ITSC 2022<br /> 
@@ -39,7 +39,7 @@ Moreover, I am also interested in face analysis/editing, which I have done some 
 <font size="2">
 <strong>Yaokun Li</strong>, Chao Gou, Guang Tan <br /> 
 arXiv Preprint, 2024 <br />
-<a href="https://arxiv.org/search/cs">Paper</a>
+<a href="https://arxiv.org/pdf/2402.01217.pdf">Paper</a>
 <br />
 </font>
 </p>
