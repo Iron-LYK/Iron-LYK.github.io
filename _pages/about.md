@@ -20,7 +20,7 @@ I have a broad interest in the exciting field of 3D vision, focusing mainly on:<
 
 Moreover, I am also interested in face analysis/editing, which I have done some work on before.<br />
 
-[Google Scholar](https://scholar.google.com.hk/citations?hl=en&view_op=list_works&authuser=1&gmla=AH70aAXzHZsmUfNdNZ-ZxUUQch_wz3OjkERjPqQVZklCFS9UTowHTxCJWtp60drsx3o3-Ra6hCbX7ymcWN_1PJZddFg7&user=plCD9wwAAAAJ) / [Twitter](https://twitter.com/iron_lyk) / [CSDN](https://blog.csdn.net/DUDUDUTU?spm=1000.2115.3001.5343) / <a href="https://Iron-LYK.github.io/files/CV.pdf">CV</a>
+[Google Scholar](https://scholar.google.com.hk/citations?hl=en&view_op=list_works&authuser=1&gmla=AH70aAXzHZsmUfNdNZ-ZxUUQch_wz3OjkERjPqQVZklCFS9UTowHTxCJWtp60drsx3o3-Ra6hCbX7ymcWN_1PJZddFg7&user=plCD9wwAAAAJ) / [Twitter](https://twitter.com/iron_lyk) / [CSDN](https://blog.csdn.net/DUDUDUTU?spm=1000.2115.3001.5343) / <a href="https://Iron-LYK.github.io/files/CV_lyk.pdf">CV</a>
    
 🔥 News 🔥
 ----- 
