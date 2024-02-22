@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am a 3rd student in the successive master-doctor program in Control Science & Engineering at the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm), [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by [Prof. Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm) and [Assoc. Prof. Chao Gou](https://chaogou.github.io/). Prior to this, I earned my B.Eng. degree from the School of Automotive Engineering at [Wuhan University of Technology](http://english.whut.edu.cn/) in 2021.<br /> 
+I am a 3rd-year student in the successive master-doctor program in Control Science & Engineering at the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm), [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by [Prof. Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm) and [Assoc. Prof. Chao Gou](https://chaogou.github.io/). Prior to this, I earned my B.Eng. degree from the School of Automotive Engineering at [Wuhan University of Technology](http://english.whut.edu.cn/) in 2021.<br /> 
 
 I have a broad interest in the exciting field of 3D vision, focusing mainly on:<br />
 
