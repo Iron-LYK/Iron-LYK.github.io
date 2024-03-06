@@ -10,13 +10,13 @@ redirect_from:
 
 Welcome to my website!
 
-I am a 3rd-year student in the successive master-doctor program in Control Science & Engineering at the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm), [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by [Prof. Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm) and [Assoc. Prof. Chao Gou](https://chaogou.github.io/). Prior to this, I earned my B.Eng. degree from the School of Automotive Engineering at [Wuhan University of Technology](http://english.whut.edu.cn/) in 2021.<br /> 
+I am a 3rd-year master's student in the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by [Assoc. Prof. Chao Gou](https://chaogou.github.io/) and [Prof. Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm). Prior to this, I earned my B.Eng. degree from the School of Automotive Engineering at [Wuhan University of Technology](http://english.whut.edu.cn/) in 2021.<br /> 
 
 I have a broad interest in the exciting field of 3D vision, focusing mainly on:<br />
 
 👉 **Generalizable neural representations:** Dedicated to advancing lightweight, generalizable 3D representations for future general AI.<br />
 
-👉 **Sparse-view 3D Reconstruction/Generation:** Striving to solve the ill-posed spare reconstruction issue, especially from a generative perspective.<br />
+👉 **Uncertainty in Sparse-view 3D Reconstruction/Generation:** Striving to solve the ill-posed spare reconstruction/generation issue, especially from a generative perspective incorporating knowledge of LLMs or VLMs.<br />
 
 Moreover, I am also interested in face analysis/editing, which I have done some work on before.<br />
 
