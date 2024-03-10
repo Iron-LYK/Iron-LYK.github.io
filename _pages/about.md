@@ -10,9 +10,11 @@ redirect_from:
 
 Welcome to my website!
 
-I am a 3rd-year student of the Master-Doctor combined program in the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), majoring in Control Science & Engineering. Prior to this, I earned my B.Eng. degree from the School of Automotive Engineering at [Wuhan University of Technology](http://english.whut.edu.cn/) in 2021.<br /> 
+I am a 3rd-year student of the Master-Doctor combined program in the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), majoring in Control Science & Engineering. I have a broad interest in the exciting field of computer vision, focusing mainly on:<br />
 
-I have a broad interest in the exciting field of computer vision, focusing mainly on:<br />
+<!-- Prior to this, I earned my B.Eng. degree from the School of Automotive Engineering at [Wuhan University of Technology](http://english.whut.edu.cn/) in 2021.<br /> -->
+
+
 
 👉 **Generalizable neural representations:** Dedicated to advancing lightweight, generalizable 3D representations for future general AI.<br />
 
