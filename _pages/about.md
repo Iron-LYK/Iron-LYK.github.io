@@ -10,15 +10,8 @@ redirect_from:
 
 Hi, welcome to my website!
 
-I am a first-year PhD at Sun Yat-sen University, supervised by Guang Tan, and I am currently honored to be working as a Research Assistant at MMLab, CUHK, advised by Prof. [Tianfan Xue](https://tianfan.info/). My research focuses on Sparse-view 3D Reconstruction and physics-aware dynamic modeling. I was previously interested in face analysis and have done some work in that area.<br />
+I am a first-year PhD at Sun Yat-sen University, supervised by [Guang Tan](https://scholar.google.com/citations?hl=zh-CN&user=JerZls4AAAAJ&view_op=list_works&sortby=pubdate), and I am currently honored to be working as a Research Assistant at MMLab, CUHK, advised by Prof. [Tianfan Xue](https://tianfan.info/). My research focuses on Sparse-view 3D Reconstruction and physics-aware dynamic modeling. I was previously interested in face analysis and have done some work in that area.<br />
 
-<!--Yaokun Li, from the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm), [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). I have a broad interest in the exciting field of computer vision, involving:<br /> -->
-
-<!-- Prior to this, I earned my B.Eng. degree from the School of Automotive Engineering at [Wuhan University of Technology](http://english.whut.edu.cn/) in 2021.<br /> -->
-
-<!--👉 **Generalizable neural representations:** Dedicated to advancing lightweight, generalizable 3D representations for future general AI.<br /> 👉 **Uncertainty in Sparse-view 3D Reconstruction/Generation:** Striving to solve the ill-posed spare reconstruction/generation issue, especially from a generative perspective incorporating knowledge of LLMs or VLMs.<br />Moreover, I am also interested in face analysis/editing, which I have done some work on before.<br />-->
-
-<!--[Google Scholar](https://scholar.google.com.hk/citations?hl=en&view_op=list_works&authuser=1&gmla=AH70aAXzHZsmUfNdNZ-ZxUUQch_wz3OjkERjPqQVZklCFS9UTowHTxCJWtp60drsx3o3-Ra6hCbX7ymcWN_1PJZddFg7&user=plCD9wwAAAAJ) / [Twitter](https://twitter.com/iron_lyk) / [CSDN](https://blog.csdn.net/DUDUDUTU?spm=1000.2115.3001.5343) / <a href="https://Iron-LYK.github.io/files/CV_lyk.pdf">CV</a>-->
    
 🔥 News 🔥
 ----- 
