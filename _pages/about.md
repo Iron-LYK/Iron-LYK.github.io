@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, welcome to my website!
 
-I am a first-year PhD at Sun Yat-sen University, supervised by [Guang Tan](https://scholar.google.com/citations?hl=zh-CN&user=JerZls4AAAAJ&view_op=list_works&sortby=pubdate), and I am currently honored to be working as a Research Assistant at MMLab, CUHK, advised by Prof. [Tianfan Xue](https://tianfan.info/). My research focuses on Sparse-view 3D Reconstruction and physics-aware dynamic modeling. I was previously interested in face analysis and have done some work in that area.<br />
+I am a first-year PhD student in the Sun Yat-sen University's Master-Doctor combined program, supervised by [Guang Tan](https://scholar.google.com/citations?hl=zh-CN&user=JerZls4AAAAJ&view_op=list_works&sortby=pubdate) and [Chao Gou](https://scholar.google.com/citations?user=_0ad79AAAAAJ&hl=en). Currently, I am honored to be working as a Research Assistant at MMLab, CUHK, under the supervision of Prof. [Tianfan Xue](https://tianfan.info/). My research focuses on Sparse-view 3D Reconstruction and physics-aware dynamic modeling. I was previously interested in face analysis and have done some work in that area.<br />
 
    
 🔥 News 🔥
