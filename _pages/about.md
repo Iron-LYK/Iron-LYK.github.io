@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website!
+Hi, welcome to my website!
 
-%Hi, I am a first-year PhD at Sun Yat-sen University, supervised by Guang Tan, and I am currently honored to be working as a Research Assistant at MMLab, CUHK, advised by Prof. [Tianfan Xue](https://tianfan.info/). My research focuses on Sparse-view 3D Reconstruction and physics-aware dynamic modeling. I was previously interested in face analysis and have done some work in that area<br />
+I am a first-year PhD at Sun Yat-sen University, supervised by Guang Tan, and I am currently honored to be working as a Research Assistant at MMLab, CUHK, advised by Prof. [Tianfan Xue](https://tianfan.info/). My research focuses on Sparse-view 3D Reconstruction and physics-aware dynamic modeling. I was previously interested in face analysis and have done some work in that area<br />
 
 <!--Yaokun Li, from the [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/index.htm), [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). I have a broad interest in the exciting field of computer vision, involving:<br /> -->
 
