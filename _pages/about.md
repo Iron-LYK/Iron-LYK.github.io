@@ -1,4 +1,4 @@
-![image](https://github.com/Iron-LYK/Iron-LYK.github.io/assets/74582832/9ca2e7d1-f97b-4dd3-ae37-35fb3efef942)---
+---
 permalink: /
 title: "Greetings! 😆"
 excerpt: "Homepage"
