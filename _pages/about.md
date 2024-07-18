@@ -90,7 +90,7 @@ IEEE International Conference on Intelligent Transportation Systems (<strong>ITS
 ----- 
 Reviewer:<br /> 
 ∙ Journal Reviewer: IJCV, TIV<br /> 
-∙ Conference Reviewer: ITSC<br /> 
+∙ Conference Reviewer: ECCV, ITSC<br /> 
 
 
 
