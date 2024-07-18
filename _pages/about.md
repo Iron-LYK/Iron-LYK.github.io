@@ -12,7 +12,7 @@ Welcome to my website!
 
 I am a first-year PhD student in the Sun Yat-sen University's Master-Doctor combined program, supervised by [Guang Tan](https://scholar.google.com/citations?hl=zh-CN&user=JerZls4AAAAJ&view_op=list_works&sortby=pubdate) and [Chao Gou](https://scholar.google.com/citations?user=_0ad79AAAAAJ&hl=en). 
 
-Currently, I am honored to be a visiting student at MMLab, CUHK, under the supervision of Prof. [Tianfan Xue](https://tianfan.info/). My research interests are now primarily focused on 3D Reconstruction and physically realistic 4D dynamic modeling. I am also interested in face analysis and have done some work in that area before. I am open to collaboration and welcome further discussions if you are interested in my research.<br />
+Currently, I am honored to be a visiting student at MMLab, CUHK, under the supervision of Prof. [Tianfan Xue](https://tianfan.info/). My research interests primarily focus on 3D Reconstruction and physically realistic 4D dynamic modeling. I am also interested in face analysis and have done some work in that area before. I am open to collaboration and welcome further discussions if you are interested in my research.<br />
 
 
    
