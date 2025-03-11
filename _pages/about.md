@@ -32,9 +32,9 @@ My research interests primarily focus on 3D Reconstruction and 4D motion generat
 ### ID-NeRF: Indirect diffusion-guided neural radiance fields for generalizable view synthesis
 <p style="line-height:1.0">
 <font size="2">
-<strong>Yaokun Li</strong>, Chao Gou, Guang Tan <br /> 
+<strong>Yaokun Li</strong>, Shuaixian Wang, Guang Tan <br /> 
 Expert Systems with Applications, (<strong>ESWA 2025</strong>) <br />
-<a href="https://arxiv.org/pdf/2402.01217.pdf">Paper</a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S095741742402935X">Paper</a>
 <br />
 </font>
 </p>
