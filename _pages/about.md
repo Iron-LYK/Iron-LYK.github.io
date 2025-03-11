@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am a fourth-year PhD student in the Sun Yat-sen University's Master-Doctor combined program, supervised by [Guang Tan](https://scholar.google.com/citations?hl=zh-CN&user=JerZls4AAAAJ&view_op=list_works&sortby=pubdate) and [Chao Gou](https://scholar.google.com/citations?user=_0ad79AAAAAJ&hl=en). Since June 2024, I have been honored to be a visiting student at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html), CUHK, under the supervision of Prof. [Tianfan Xue](https://tianfan.info/).
+I am a fourth-year PhD student in the Sun Yat-sen University's Master-Doctor combined program, supervised by [Guang Tan](https://scholar.google.com/citations?hl=zh-CN&user=JerZls4AAAAJ&view_op=list_works&sortby=pubdate) and [Chao Gou](https://scholar.google.com/citations?user=_0ad79AAAAAJ&hl=en). Since June 2024, I have been honored to be a visiting Ph.D at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html), CUHK, under the supervision of Prof. [Tianfan Xue](https://tianfan.info/).
 
 My research interests primarily focus on 3D Reconstruction and 4D motion generation. I am also interested in face analysis and have done some work in that area before. I am open to collaboration and welcome further discussions if you are interested in my research.<br />
 
@@ -18,28 +18,13 @@ My research interests primarily focus on 3D Reconstruction and 4D motion generat
    
 🔥 News 🔥
 ----- 
-**∙** [2024.12] 🎉🎉 One paper is accepted to AAAI 2025
-**∙** [2024.12] 🎉🎉 One paper is accepted to ESWA 2025
+**∙** [2024.12] 🎉🎉 One paper is accepted to AAAI 2025<br />
+**∙** [2024.12] 🎉🎉 One paper is accepted to ESWA 2025<br />
 **∙** [2024.02] 🌟🌟 Our new work, ID-NeRF, is released! Check it out via [here](https://arxiv.org/pdf/2402.01217.pdf).<br />
 **∙** [2023.11] 🎉🎉 One paper CIT is accepted to IJCV<br /> 
 **∙** [2023.09] 🎉🎉 One paper PIT is accepted to TITS<br /> 
 **∙** [2022.07] 🎉🎉 One paper MS-GCN is accepted to ITSC 2022<br /> 
 **∙** [2021.09] 🚀🚀 Start my journey at [ISE@SYSU](https://ise.sysu.edu.cn/) 
-
-"""
-📑 Preprints 
------
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/ID-NeRF.png" width="160" height="140">
-### Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance
-<p style="line-height:1.0">
-<font size="2">
-<strong>Yaokun Li</strong>, Chao Gou, Guang Tan <br /> 
-arXiv Preprint, 2024 <br />
-<a href="https://arxiv.org/pdf/2402.01217.pdf">Paper</a>
-<br />
-</font>
-</p>
-"""
 
 📑 Publications 
 -----
