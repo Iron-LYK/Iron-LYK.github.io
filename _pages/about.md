@@ -19,7 +19,7 @@ My research interests primarily focus on 3D Reconstruction and 4D motion generat
 🔥 News 🔥
 ----- 
 **∙** [2024.12] 🎉🎉 One paper is accepted to AAAI 2025<br />
-**∙** [2024.12] 🎉🎉 One paper is accepted to ESWA 2025<br />
+**∙** [2024.11] 🎉🎉 One paper is accepted to ESWA 2025<br />
 **∙** [2024.02] 🌟🌟 Our new work, ID-NeRF, is released! Check it out via [here](https://arxiv.org/pdf/2402.01217.pdf).<br />
 **∙** [2023.11] 🎉🎉 One paper CIT is accepted to IJCV<br /> 
 **∙** [2023.09] 🎉🎉 One paper PIT is accepted to TITS<br /> 
