@@ -35,7 +35,7 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
   <div>
     <h3>From One to More: Contextual Part Latents for 3D Generation</h3>
     <p style="line-height:1.0; font-size: small;">
-      Shaocong Dong*, Lihe Ding*, Xiao Chen, <strong><u>Yaokun Li</u></strong>, ...
+      Shaocong Dong*, Lihe Ding*, Xiao Chen, <strong><u>Yaokun Li</u></strong>, Yuxin Wang, Yucheng Wang, Qi Wang, Jaehyeok Kim, Chenjian Gao, Zhanpeng Huang, Zibin Wang, Tianfan Xue†, Dan Xu†
       <br><strong>ICCV 2025</strong><br>
       <a href="https://hkdsc.github.io/project/copart/">Project</a> |
       <a href="https://arxiv.org/abs/2507.08772">Paper</a> |
@@ -45,7 +45,6 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
   </div>
 </div>
 <hr>
------
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/ID-NeRF.png" width="160" height="140">
 ### ID-NeRF: Indirect diffusion-guided neural radiance fields for generalizable view synthesis
 <p style="line-height:1.0">
