@@ -27,8 +27,6 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
 **∙** [2024.02] 🌟🌟 Our new work, ID-NeRF, is released! Check it out via [here](https://arxiv.org/pdf/2402.01217.pdf).<br />
 **∙** [2023.11] 🎉🎉 One paper CIT is accepted to IJCV<br /> 
 **∙** [2023.09] 🎉🎉 One paper PIT is accepted to TITS<br /> 
-**∙** [2022.07] 🎉🎉 One paper MS-GCN is accepted to ITSC 2022<br /> 
-**∙** [2021.09] 🚀🚀 Start my journey at [ISE@SYSU](https://ise.sysu.edu.cn/) 
 
 📑 Publications 
 -----
