@@ -14,7 +14,7 @@ I am a fourth-year PhD student in the Sun Yat-sen University's Master-Doctor com
 
 Since June 2024, I have been honored to be a visiting Ph.D at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html), CUHK, under the supervision of Prof. [Tianfan Xue](https://tianfan.info/).
 
-My research interests primarily focus on 3D Reconstruction and 4D/video generation. I’m also very interested in how to scale up the creation of simulated 3D assets to empower Embodied AI. I am open to collaboration and welcome further discussions if you are interested in my research.<br />
+My research interests primarily focus on 3D Reconstruction and 4D/video generation. I’m also very interested in how to scale up the creation of simulated 3D articulated assets to empower Embodied AI. I am open to collaboration and welcome further discussions if you are interested in my research.<br />
 
 
    
@@ -28,7 +28,7 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
 **∙** [2023.11] 🎉🎉 One paper CIT is accepted to IJCV<br /> 
 **∙** [2023.09] 🎉🎉 One paper PIT is accepted to TITS<br /> 
 
-📑 Publications 
+📑 Selected Publications 
 -----
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="../images/paper_teasers/copart.gif" width="160" height="140" style="margin-right: 10px;">
