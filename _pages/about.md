@@ -59,7 +59,7 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
     <h3>DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum</h3>
     <p>
       <strong><u>Yaokun Li</u></strong>, Lihe Ding, Xiao Chen, Guang Tan, Tianfan Xue<br>
-      arXiv Preprint, 2025<br>
+      <span style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</span><br>
       <a href="https://dynamictree-dev.github.io/DynamicTree.github.io/">Project</a> |
       <a href="https://arxiv.org/abs/2510.22213">Paper</a> |
       <a href="https://github.com/Iron-LYK/DynamicTree">Code</a> |
@@ -70,7 +70,6 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
 
 <hr class="pub-divider">
 
-<!-- 第2个 publication -->
 <div class="pub-item">
   <img src="../images/paper_teasers/copart.gif" width="160" height="140">
   <div>
@@ -98,7 +97,7 @@ Expert Systems with Applications, (<strong>ESWA 2025</strong>) <br />
 <br />
 </font>
 </p>
------ 
+
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/CIT.png" width="160" height="140"> 
 ### Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose 
 <p style="line-height:1.0"> 
@@ -110,7 +109,7 @@ International Journal of Computer Vision (<strong>IJCV 2024</strong>)<br />
 <br />
 </font>
 </p>
----
+
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/PIT.png" width="160" height="140"> 
 ### PIT: Progressive Interaction Transformer for Pedestrian Crossing Intention Prediction 
 <p style="line-height:1.0"> 
@@ -121,7 +120,7 @@ IEEE Transactions on Intelligent Transportation Systems (<strong>TITS 2023</stro
 <br /> 
 </font> 
 </p> 
----
+
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/MS-GCN.png" width="160" height="140"> 
 ### MS-GCN: Multi-Stream Graph Convolution Network for Driver Head Pose Estimation 
 <p style="line-height:1.0"> 
