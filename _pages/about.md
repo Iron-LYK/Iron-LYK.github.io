@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am a fourth-year PhD student in the Sun Yat-sen University's Master-Doctor combined program, supervised by [Guang Tan](https://scholar.google.com/citations?hl=zh-CN&user=JerZls4AAAAJ&view_op=list_works&sortby=pubdate) and [Chao Gou](https://scholar.google.com/citations?user=_0ad79AAAAAJ&hl=en). 
+I am a third-year PhD student in the Sun Yat-sen University's Master-Doctor combined program, supervised by [Guang Tan](https://scholar.google.com/citations?hl=zh-CN&user=JerZls4AAAAJ&view_op=list_works&sortby=pubdate) and [Chao Gou](https://scholar.google.com/citations?user=_0ad79AAAAAJ&hl=en). 
 
 Since June 2024, I have been honored to be a visiting Ph.D at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html), CUHK, under the supervision of Prof. [Tianfan Xue](https://tianfan.info/).
 
