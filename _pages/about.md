@@ -49,10 +49,12 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
   }
   .pub-divider {
     border: none;
-    border-top: 1.5px solid 
-    margin: 20px 0; 
+    border-top: 1.5px solid #ccc;
+    margin: 20px 0;
   }
 </style>
+
+<!-- 1️⃣ DynamicTree -->
 <div class="pub-item">
   <img src="../images/paper_teasers/DynamicTree.gif" width="160" height="140">
   <div>
@@ -67,9 +69,9 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
     </p>
   </div>
 </div>
-
 <hr class="pub-divider">
 
+<!-- 2️⃣ CoPart -->
 <div class="pub-item">
   <img src="../images/paper_teasers/copart.gif" width="160" height="140">
   <div>
@@ -84,55 +86,64 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
     </p>
   </div>
 </div>
-
 <hr class="pub-divider">
 
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/ID-NeRF.png" width="160" height="140">
-### ID-NeRF: Indirect diffusion-guided neural radiance fields for generalizable view synthesis
-<p style="line-height:1.0">
-<font size="2">
-<strong><u>Yaokun Li</u></strong>, Shuaixian Wang, Guang Tan <br /> 
-Expert Systems with Applications, (<strong>ESWA 2025</strong>) <br />
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S095741742402935X">Paper</a>
-<br />
-</font>
-</p>
+<!-- 3️⃣ ID-NeRF -->
+<div class="pub-item">
+  <img src="../images/paper_teasers/ID-NeRF.png" width="160" height="140">
+  <div>
+    <h3>ID-NeRF: Indirect Diffusion-Guided Neural Radiance Fields for Generalizable View Synthesis</h3>
+    <p>
+      <strong><u>Yaokun Li</u></strong>, Shuaixian Wang, Guang Tan<br>
+      <strong style="display:inline-block; margin:6px 0;">ESWA 2025</strong><br>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S095741742402935X">Paper</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
 
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/CIT.png" width="160" height="140"> 
-### Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose 
-<p style="line-height:1.0"> 
-<font size="2"> 
-<strong><u>Yaokun Li</u></strong>, Guang Tan, Chao Gou <br /> 
-International Journal of Computer Vision (<strong>IJCV 2024</strong>)<br /> 
-<a href="https://doi.org/10.1007/s11263-023-01935-2">Paper</a> | 
-<a href="https://github.com/Iron-LYK/CIT">Code</a>
-<br />
-</font>
-</p>
+<!-- 4️⃣ CIT -->
+<div class="pub-item">
+  <img src="../images/paper_teasers/CIT.png" width="160" height="140">
+  <div>
+    <h3>Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose</h3>
+    <p>
+      <strong><u>Yaokun Li</u></strong>, Guang Tan, Chao Gou<br>
+      <strong style="display:inline-block; margin:6px 0;">IJCV 2024</strong><br>
+      <a href="https://doi.org/10.1007/s11263-023-01935-2">Paper</a> |
+      <a href="https://github.com/Iron-LYK/CIT">Code</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
 
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/PIT.png" width="160" height="140"> 
-### PIT: Progressive Interaction Transformer for Pedestrian Crossing Intention Prediction 
-<p style="line-height:1.0"> 
-<font size="2"> 
-Yuchen Zhou, Guang Tan, Rui Zhong, <strong><u>Yaokun Li</u></strong>, Chao Gou<br /> 
-IEEE Transactions on Intelligent Transportation Systems (<strong>TITS 2023</strong>)<br /> 
-<a href="https://ieeexplore.ieee.org/abstract/document/10247098">Paper</a>
-<br /> 
-</font> 
-</p> 
+<!-- 5️⃣ PIT -->
+<div class="pub-item">
+  <img src="../images/paper_teasers/PIT.png" width="160" height="140">
+  <div>
+    <h3>PIT: Progressive Interaction Transformer for Pedestrian Crossing Intention Prediction</h3>
+    <p>
+      Yuchen Zhou, Guang Tan, Rui Zhong, <strong><u>Yaokun Li</u></strong>, Chao Gou<br>
+      <strong style="display:inline-block; margin:6px 0;">TITS 2023</strong><br>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10247098">Paper</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
 
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/MS-GCN.png" width="160" height="140"> 
-### MS-GCN: Multi-Stream Graph Convolution Network for Driver Head Pose Estimation 
-<p style="line-height:1.0"> 
-<font size="2"> 
-<strong><u>Yaokun Li</u></strong>, Yuezhao Yu, Yuliang Liu, Chao Gou<br /> 
-IEEE International Conference on Intelligent Transportation Systems (<strong>ITSC 2022</strong>)<br /> 
-<a href="https://ieeexplore.ieee.org/abstract/document/9922277">Paper</a>
-<br /> 
-</font> 
-</p> 
-<br/>
-
+<!-- 6️⃣ MS-GCN -->
+<div class="pub-item">
+  <img src="../images/paper_teasers/MS-GCN.png" width="160" height="140">
+  <div>
+    <h3>MS-GCN: Multi-Stream Graph Convolution Network for Driver Head Pose Estimation</h3>
+    <p>
+      <strong><u>Yaokun Li</u></strong>, Yuezhao Yu, Yuliang Liu, Chao Gou<br>
+      <strong style="display:inline-block; margin:6px 0;">ITSC 2022</strong><br>
+      <a href="https://ieeexplore.ieee.org/abstract/document/9922277">Paper</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
 
 🏆 Awards 
 ----- 
