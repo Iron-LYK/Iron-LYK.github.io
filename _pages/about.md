@@ -36,7 +36,7 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
     <h3 style="margin-top: 0;">FDynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum</h3>
       <p style="line-height:1.0; font-size: small; margin: 0;">
         <strong><u>Yaokun Li</u></strong>, Lihe Ding, Xiao Chen, Guang Tan, Tianfan Xue
-        arXiv Preprint, 2025
+        <br>arXiv Preprint, 2025<br>
         <a href="https://dynamictree-dev.github.io/DynamicTree.github.io/">Project</a> |
         <a href="https://arxiv.org/abs/2510.22213">Paper</a> |
         <a href="https://github.com/Iron-LYK/DynamicTree">Code</a> |
