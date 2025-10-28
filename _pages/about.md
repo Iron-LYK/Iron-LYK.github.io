@@ -31,9 +31,24 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
 📑 Selected Publications 
 -----
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <img src="../images/paper_teasers/DynamicTree.gif" width="160" height="140" style="margin-right: 10px;">
+  <div>
+    <h3 style="margin-top: 0;">FDynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum</h3>
+      <p style="line-height:1.0; font-size: small; margin: 0;">
+        <strong><u>Yaokun Li</u></strong>, Lihe Ding, Xiao Chen, Guang Tan, Tianfan Xue
+        arXiv Preprint, 2025
+        <a href="https://dynamictree-dev.github.io/DynamicTree.github.io/">Project</a> |
+        <a href="https://arxiv.org/abs/2510.22213">Paper</a> |
+        <a href="https://github.com/Iron-LYK/DynamicTree">Code</a> |
+        <a href="https://github.com/Iron-LYK/DynamicTree">Data</a>
+      </p>
+  </div>
+</div>
+<hr>
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <img src="../images/paper_teasers/copart.gif" width="160" height="140" style="margin-right: 10px;">
   <div>
-    <h3>From One to More: Contextual Part Latents for 3D Generation</h3>
+    <h3 style="margin-top: 0;">From One to More: Contextual Part Latents for 3D Generation</h3>
       <p style="line-height:1.0; font-size: small; margin: 0;">
         Shaocong Dong*, Lihe Ding*, Xiao Chen, <strong><u>Yaokun Li</u></strong>, Yuxin Wang, Yucheng Wang, Qi Wang, Jaehyeok Kim, Chenjian Gao, Zhanpeng Huang, Zibin Wang, Tianfan Xue†, Dan Xu†
         <br><strong style="display:inline-block; margin:6px 0;">ICCV 2025</strong><br>
