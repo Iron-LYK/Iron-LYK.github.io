@@ -30,36 +30,64 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
 
 📑 Selected Publications 
 -----
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="../images/paper_teasers/DynamicTree.gif" width="160" height="140" style="margin-right: 10px;">
+<style>
+  .pub-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 25px;
+  }
+  .pub-item img {
+    margin-right: 10px;
+  }
+  .pub-item h3 {
+    margin-top: 0;
+  }
+  .pub-item p {
+    line-height: 1.1;
+    font-size: small;
+    margin: 0;
+  }
+  .pub-divider {
+    border: none;
+    border-top: 1.5px solid 
+    margin: 20px 0; 
+  }
+</style>
+<div class="pub-item">
+  <img src="../images/paper_teasers/DynamicTree.gif" width="160" height="140">
   <div>
-    <h3 style="margin-top: 0;">FDynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum</h3>
-      <p style="line-height:1.0; font-size: small; margin: 0;">
-        <strong><u>Yaokun Li</u></strong>, Lihe Ding, Xiao Chen, Guang Tan, Tianfan Xue
-        <br>arXiv Preprint, 2025<br>
-        <a href="https://dynamictree-dev.github.io/DynamicTree.github.io/">Project</a> |
-        <a href="https://arxiv.org/abs/2510.22213">Paper</a> |
-        <a href="https://github.com/Iron-LYK/DynamicTree">Code</a> |
-        <a href="https://github.com/Iron-LYK/DynamicTree">Data</a>
-      </p>
+    <h3>DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum</h3>
+    <p>
+      <strong><u>Yaokun Li</u></strong>, Lihe Ding, Xiao Chen, Guang Tan, Tianfan Xue<br>
+      arXiv Preprint, 2025<br>
+      <a href="https://dynamictree-dev.github.io/DynamicTree.github.io/">Project</a> |
+      <a href="https://arxiv.org/abs/2510.22213">Paper</a> |
+      <a href="https://github.com/Iron-LYK/DynamicTree">Code</a> |
+      <a href="https://github.com/Iron-LYK/DynamicTree">Data</a>
+    </p>
   </div>
 </div>
-<hr>
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <img src="../images/paper_teasers/copart.gif" width="160" height="140" style="margin-right: 10px;">
+
+<hr class="pub-divider">
+
+<!-- 第2个 publication -->
+<div class="pub-item">
+  <img src="../images/paper_teasers/copart.gif" width="160" height="140">
   <div>
-    <h3 style="margin-top: 0;">From One to More: Contextual Part Latents for 3D Generation</h3>
-      <p style="line-height:1.0; font-size: small; margin: 0;">
-        Shaocong Dong*, Lihe Ding*, Xiao Chen, <strong><u>Yaokun Li</u></strong>, Yuxin Wang, Yucheng Wang, Qi Wang, Jaehyeok Kim, Chenjian Gao, Zhanpeng Huang, Zibin Wang, Tianfan Xue†, Dan Xu†
-        <br><strong style="display:inline-block; margin:6px 0;">ICCV 2025</strong><br>
-        <a href="https://hkdsc.github.io/project/copart/">Project</a> |
-        <a href="https://arxiv.org/abs/2507.08772">Paper</a> |
-        <a href="https://github.com/hkdsc/copart">Code</a> |
-        <a href="https://huggingface.co/datasets/dscdyc/partverse/tree/main">Data</a>
-      </p>
+    <h3>From One to More: Contextual Part Latents for 3D Generation</h3>
+    <p>
+      Shaocong Dong*, Lihe Ding*, Xiao Chen, <strong><u>Yaokun Li</u></strong>, Yuxin Wang, Yucheng Wang, Qi Wang, Jaehyeok Kim, Chenjian Gao, Zhanpeng Huang, Zibin Wang, Tianfan Xue†, Dan Xu†<br>
+      <strong style="display:inline-block; margin:6px 0;">ICCV 2025</strong><br>
+      <a href="https://hkdsc.github.io/project/copart/">Project</a> |
+      <a href="https://arxiv.org/abs/2507.08772">Paper</a> |
+      <a href="https://github.com/hkdsc/copart">Code</a> |
+      <a href="https://huggingface.co/datasets/dscdyc/partverse/tree/main">Data</a>
+    </p>
   </div>
 </div>
-<hr>
+
+<hr class="pub-divider">
+
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/ID-NeRF.png" width="160" height="140">
 ### ID-NeRF: Indirect diffusion-guided neural radiance fields for generalizable view synthesis
 <p style="line-height:1.0">
