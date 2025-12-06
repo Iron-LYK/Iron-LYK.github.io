@@ -56,7 +56,7 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
 
 <!-- ReCamDriving -->
 <div class="pub-item">
-  <img src="https://recamdriving.github.io/static/images/teaser.png" width="160" height="140">
+  <img src="https://recamdriving.github.io/static/images/teaser.png" width="160" height="160">
   <div>
     <h3>ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation</h3>
     <p>
@@ -72,7 +72,7 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
 
 <!-- DynamicTree -->
 <div class="pub-item">
-  <img src="../images/paper_teasers/DynamicTree.gif" width="160" height="160">
+  <img src="../images/paper_teasers/DynamicTree.gif" width="160" height="140">
   <div>
     <h3>DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum</h3>
     <p>
