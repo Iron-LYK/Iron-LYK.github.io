@@ -54,7 +54,23 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
   }
 </style>
 
-<!-- 1️⃣ DynamicTree -->
+<!-- ReCamDriving -->
+<div class="pub-item">
+  <img src="https://recamdriving.github.io/static/images/teaser.png" width="160" height="140">
+  <div>
+    <h3>ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation</h3>
+    <p>
+      <strong><u>Yaokun Li</u></strong>, Shuaixian Wang, Mantang Guo, Jiehui Huang, Taojun Ding, Mu Hu, Kaixuan Wang, Shaijie Shen, Guang Tan<br>
+      <span style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</span><br>
+      <a href="https://recamdriving.github.io/">Project</a> |
+      <a href="https://arxiv.org/abs/2512.03621">Paper</a> |
+      <a href="https://github.com/Iron-LYK/ReCamDriving">Code</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
+
+<!-- DynamicTree -->
 <div class="pub-item">
   <img src="../images/paper_teasers/DynamicTree.gif" width="160" height="140">
   <div>
@@ -71,7 +87,7 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
 </div>
 <hr class="pub-divider">
 
-<!-- 2️⃣ CoPart -->
+<!-- CoPart -->
 <div class="pub-item">
   <img src="../images/paper_teasers/copart.gif" width="160" height="140">
   <div>
@@ -88,7 +104,7 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
 </div>
 <hr class="pub-divider">
 
-<!-- 3️⃣ ID-NeRF -->
+<!-- ID-NeRF -->
 <div class="pub-item">
   <img src="../images/paper_teasers/ID-NeRF.png" width="160" height="140">
   <div>
@@ -102,7 +118,7 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
 </div>
 <hr class="pub-divider">
 
-<!-- 4️⃣ CIT -->
+<!-- CIT -->
 <div class="pub-item">
   <img src="../images/paper_teasers/CIT.png" width="160" height="140">
   <div>
@@ -117,7 +133,7 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
 </div>
 <hr class="pub-divider">
 
-<!-- 5️⃣ PIT -->
+<!-- PIT -->
 <div class="pub-item">
   <img src="../images/paper_teasers/PIT.png" width="160" height="140">
   <div>
@@ -131,7 +147,7 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
 </div>
 <hr class="pub-divider">
 
-<!-- 6️⃣ MS-GCN -->
+<!-- MS-GCN -->
 <div class="pub-item">
   <img src="../images/paper_teasers/MS-GCN.png" width="160" height="140">
   <div>
