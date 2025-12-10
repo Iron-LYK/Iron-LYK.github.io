@@ -70,6 +70,21 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
 </div>
 <hr class="pub-divider">
 
+<!-- FDEP -->
+<div class="pub-item">
+  <img src="../images/paper_teasers/FDEP.png" width="160" height="160">
+  <div>
+    <h3>Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm</h3>
+    <p>
+      Chuang Yu, Jinmiao Zhao, Yunpeng Liu, <strong><u>Yaokun Li</u></strong>, Xiujun Shu, Yuanhao Feng, Bo Wang, Yimian Dai, Xiangyu Yue<br>
+      <span style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</span><br>
+      <a href="https://arxiv.org/pdf/2512.05511">Paper</a> |
+      <a href="https://github.com/YuChuang1205/FDEP-Framework">Code</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
+
 <!-- DynamicTree -->
 <div class="pub-item">
   <img src="../images/paper_teasers/DynamicTree.gif" width="160" height="140">
