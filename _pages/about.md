@@ -20,14 +20,13 @@ My research interests primarily focus on 3D Reconstruction and 4D/video generati
    
 🔥 News 🔥
 ----- 
-**∙** [2024.02] 🌟🌟 Our new work, ReCamDriving, is released! Check it out via [here](https://recamdriving.github.io/).<br />
-**∙** [2024.02] 🌟🌟 Our new work, DynamicTree, is released! Check it out via [here](https://dynamictree-dev.github.io/DynamicTree.github.io/).<br />
+**∙** [2025.12] 🌟🌟 Our new work, ReCamDriving, is released! Check it out via [here](https://recamdriving.github.io/).<br />
+**∙** [2025.10] 🌟🌟 Our new work, DynamicTree, is released! Check it out via [here](https://dynamictree-dev.github.io/DynamicTree.github.io/).<br />
 **∙** [2025.10] 🎉🎉 One paper is accepted to PR 2025<br />
 **∙** [2025.07] 🎉🎉 One paper is accepted to ICCV 2025<br />
 **∙** [2024.12] 🎉🎉 One paper is accepted to AAAI 2025<br />
 **∙** [2024.11] 🎉🎉 One paper is accepted to ESWA 2025<br />
-**∙** [2023.11] 🎉🎉 One paper is accepted to IJCV<br /> 
-**∙** [2023.09] 🎉🎉 One paper is accepted to TITS<br /> 
+**∙** [2023.11] 🎉🎉 One paper is accepted to IJCV 2024<br /> 
 
 📑 Selected Publications 
 -----
