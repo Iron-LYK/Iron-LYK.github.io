@@ -99,7 +99,7 @@ My research interests primarily focus on video generation and 3D Reconstruction.
     <h3>ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation</h3>
     <p>
       <strong><u>Yaokun Li</u></strong>, Shuaixian Wang, Mantang Guo, Jiehui Huang, Taojun Ding, Mu Hu, Kaixuan Wang, Shaijie Shen, Guang Tan<br>
-      <span style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</span>
+      <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
     </p>
     <p class="pub-desc">
       We introduce ReCamDriving, a vision-only framework for camera-controlled video generation, and ParaDrive, a large-scale dataset comprising 110K parallel-trajectory video pairs.
@@ -140,7 +140,7 @@ My research interests primarily focus on video generation and 3D Reconstruction.
     <h3>Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm</h3>
     <p>
       Chuang Yu, Jinmiao Zhao, Yunpeng Liu, <strong><u>Yaokun Li</u></strong>, Xiujun Shu, Yuanhao Feng, Bo Wang, Yimian Dai, Xiangyu Yue<br>
-      <span style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</span>
+      <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
     </p>
     <p class="pub-desc">
       We propose FDEP, a foundation-driven efficient paradigm for single-frame infrared small target detection, alongside HSE, a holistic evaluation metric for fair model comparison.
@@ -159,7 +159,7 @@ My research interests primarily focus on video generation and 3D Reconstruction.
     <h3>DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum</h3>
     <p>
       <strong><u>Yaokun Li</u></strong>, Lihe Ding, Xiao Chen, Guang Tan, Tianfan Xue<br>
-      <span style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</span>
+      <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
     </p>
     <p class="pub-desc">
       We propose DynamicTree, the first framework that can generate long-term, interactive animation of 3D Gaussian Splatting trees.
