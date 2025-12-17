@@ -278,7 +278,7 @@ My research interests primarily focus on video generation and 3D Reconstruction.
 ----- 
 Reviewer:<br /> 
 ∙ Conference Reviewer: CVPR, ECCV, AAAI, ...<br /> 
-∙ Journal Reviewer: IJCV, TCSVT, PR, ...S<br /> 
+∙ Journal Reviewer: IJCV, TCSVT, PR, ...<br /> 
 
 
 
