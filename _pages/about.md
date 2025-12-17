@@ -33,67 +33,63 @@ My research interests primarily focus on video generation and 3D Reconstruction.
 <style>
   .pub-item {
     display: flex;
-    /* 1. 关键：让左右两项高度拉伸对齐 */
-    align-items: stretch; 
+    align-items: flex-start; /* 改为顶部对齐，防止图片被拉伸变形 */
     margin-bottom: 30px;
     background-color: transparent;
-    width: 100%;
   }
   
   .pub-item img {
-    margin-right: 25px;
-    width: 260px;         /* 保持您要求的大尺寸宽度 */
-    /* 2. 关键：高度设为 auto 或 100% 配合 flex stretch */
-    height: auto;
-    min-height: 180px;    /* 设置一个最小高度，防止文字太少时图片太扁 */
-    /* 3. 关键：裁剪多余部分并居中显示图片核心内容 */
-    object-fit: cover;    
+    margin-right: 20px;   /* 图片与文字的间距 */
+    width: 220px;         /* 缩小图片宽度，使其高度更容易与简短的文字对齐 */
+    height: auto;         /* 确保图片按比例缩放，不被裁剪或拉伸 */
+    flex-shrink: 0;       /* 防止图片被 flex 容器挤压 */
     border-radius: 4px;
-    /* 4. 确保图片在容器中也是居中的 */
-    object-position: center; 
+    object-fit: contain;  /* 确保内容完整 */
   }
 
+  /* 右侧内容容器 */
   .pub-content {
     flex: 1;
     display: flex;
     flex-direction: column;
-    /* 5. 让右侧文字在垂直方向上均匀分布或居中 */
-    justify-content: center; 
+    justify-content: flex-start;
   }
 
+  /* 论文标题：调小字体 */
   .pub-item h3 {
     margin-top: 0;
-    margin-bottom: 8px;
-    /* 继承 Github 默认字体大小 */
-    font-size: 1.25rem; 
+    margin-bottom: 5px;
+    font-size: 1.0rem;    /* 与正文 H3 接近，或设为 1.05rem */
     line-height: 1.3;
   }
   
+  /* 作者、期刊信息：调小字体，与上面 News 字体大小一致 */
   .pub-item p {
-    line-height: 1.5;
-    /* 关键：继承 github.io 默认字体大小 */
-    font-size: 1rem; 
+    line-height: 1.4;     /* 增加行高，让文字占据的空间稍微变大，匹配图片高度 */
+    font-size: 0.85rem;   /* 这里的 0.85-0.9rem 通常是标准正文的大小 */
     margin: 0;
-    color: inherit;
+    color: #333;
   }
 
+  /* 描述文字 */
   .pub-desc {
-    margin-top: 8px !important;
-    margin-bottom: 10px !important;
+    margin-top: 5px !important;
+    margin-bottom: 8px !important;
     color: #555;
     font-style: italic;
-    /* 去掉背景和边框 */
-    background-color: transparent !important;
-    padding: 0 !important;
-    border-left: none !important;
-    font-size: 1rem !important; 
-    display: block;
+    font-size: 0.85rem !important; /* 保持一致的小号字体 */
+    line-height: 1.4 !important;
+  }
+
+  /* 链接颜色 */
+  .pub-content a {
+    font-size: 0.85rem;
   }
 
   .pub-divider {
     border: none;
-    border-top: 1px solid #eaecef;
-    margin: 25px 0;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
   }
 </style>
 
