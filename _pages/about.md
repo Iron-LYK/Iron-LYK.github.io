@@ -135,25 +135,6 @@ My research interests primarily focus on video generation and 3D Reconstruction.
 
 
 <div class="pub-item">
-  <img src="../images/paper_teasers/FDEP.png">
-  <div class="pub-content">
-    <h3>Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm</h3>
-    <p>
-      Chuang Yu, Jinmiao Zhao, Yunpeng Liu, <strong><u>Yaokun Li</u></strong>, Xiujun Shu, Yuanhao Feng, Bo Wang, Yimian Dai, Xiangyu Yue<br>
-      <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
-    </p>
-    <p class="pub-desc">
-      We propose FDEP, a foundation-driven efficient paradigm for single-frame infrared small target detection, alongside HSE, a holistic evaluation metric for fair model comparison.
-    </p>
-    <p>
-      <a href="https://arxiv.org/pdf/2512.05511">Paper</a> |
-      <a href="https://github.com/YuChuang1205/FDEP-Framework">Code</a>
-    </p>
-  </div>
-</div>
-<hr class="pub-divider">
-
-<div class="pub-item">
   <img src="../images/paper_teasers/DynamicTree.gif">
   <div class="pub-content">
     <h3>DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum</h3>
@@ -174,6 +155,7 @@ My research interests primarily focus on video generation and 3D Reconstruction.
 </div>
 <hr class="pub-divider">
 
+
 <div class="pub-item">
   <img src="../images/paper_teasers/copart.gif">
   <div class="pub-content">
@@ -190,6 +172,44 @@ My research interests primarily focus on video generation and 3D Reconstruction.
       <a href="https://arxiv.org/abs/2507.08772">Paper</a> |
       <a href="https://github.com/hkdsc/copart">Code</a> |
       <a href="https://huggingface.co/datasets/dscdyc/partverse/tree/main">Data</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
+
+<div class="pub-item">
+  <img src="../images/paper_teasers/FDEP.png">
+  <div class="pub-content">
+    <h3>Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm</h3>
+    <p>
+      Chuang Yu, Jinmiao Zhao, Yunpeng Liu, <strong><u>Yaokun Li</u></strong>, Xiujun Shu, Yuanhao Feng, Bo Wang, Yimian Dai, Xiangyu Yue<br>
+      <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
+    </p>
+    <p class="pub-desc">
+      We propose FDEP, a foundation-driven efficient paradigm for single-frame infrared small target detection, alongside HSE, a holistic evaluation metric for fair model comparison.
+    </p>
+    <p>
+      <a href="https://arxiv.org/pdf/2512.05511">Paper</a> |
+      <a href="https://github.com/YuChuang1205/FDEP-Framework">Code</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
+
+
+<div class="pub-item">
+  <img src="../images/paper_teasers/ID-NeRF.png">
+  <div class="pub-content">
+    <h3>ID-NeRF: Indirect Diffusion-Guided Neural Radiance Fields for Generalizable View Synthesis</h3>
+    <p>
+      <strong><u>Yaokun Li</u></strong>, Shuaixian Wang, Guang Tan<br>
+      <strong style="display:inline-block; margin:6px 0;">ESWA 2025</strong>
+    </p>
+    <p class="pub-desc">
+    We propose ID-NeRF, a generalizable novel view synthesis framework that addresses sub-optimal reprojected features by indirectly distilling pre-trained diffusion priors into an imaginative latent space for feature refinement.
+    </p>
+    <p>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S095741742402935X">Paper</a>
     </p>
   </div>
 </div>
@@ -214,18 +234,18 @@ My research interests primarily focus on video generation and 3D Reconstruction.
 <hr class="pub-divider">
 
 <div class="pub-item">
-  <img src="../images/paper_teasers/ID-NeRF.png">
+  <img src="../images/paper_teasers/aaai25.png">
   <div class="pub-content">
-    <h3>ID-NeRF: Indirect Diffusion-Guided Neural Radiance Fields for Generalizable View Synthesis</h3>
+    <h3>Exploiting Continuous Motion Clues for Vision-Based Occupancy Prediction</h3>
     <p>
-      <strong><u>Yaokun Li</u></strong>, Shuaixian Wang, Guang Tan<br>
+      Haoran Xu, Peixi Peng, Xinyi Zhang, Guang Tan, <strong><u>Yaokun Li</u></strong>, Shuaixian Wang, Luntong Li<br>
       <strong style="display:inline-block; margin:6px 0;">ESWA 2025</strong>
     </p>
     <p class="pub-desc">
-    We propose ID-NeRF, a generalizable novel view synthesis framework that addresses sub-optimal reprojected features by indirectly distilling pre-trained diffusion priors into an imaginative latent space for feature refinement.
+    We propose CMOP, a continuous motion-aware occupancy prediction framework that leverages historical propagation and dynamic tracking modules to address object occlusions in real-world scenarios.
     </p>
     <p>
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S095741742402935X">Paper</a>
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32958">Paper</a>
     </p>
   </div>
 </div>
