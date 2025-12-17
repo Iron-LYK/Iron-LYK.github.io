@@ -33,55 +33,66 @@ My research interests primarily focus on video generation and 3D Reconstruction.
 <style>
   .pub-item {
     display: flex;
-    align-items: center; /* 关键：让图片和右侧文字垂直居中对齐 */
+    /* 1. 关键：让左右两项高度拉伸对齐 */
+    align-items: stretch; 
     margin-bottom: 30px;
     background-color: transparent;
+    width: 100%;
   }
   
   .pub-item img {
-    margin-right: 25px;   /* 增加间距，避免拥挤 */
-    width: 260px;         /* 增大图片宽度 */
-    height: auto;         /* 高度根据比例自适应，配合居中更美观 */
-    max-height: 250px;    /* 限制最大高度，防止图片过大 */
-    object-fit: contain;  /* 确保图片完整显示，不被裁剪 */
+    margin-right: 25px;
+    width: 260px;         /* 保持您要求的大尺寸宽度 */
+    /* 2. 关键：高度设为 auto 或 100% 配合 flex stretch */
+    height: auto;
+    min-height: 180px;    /* 设置一个最小高度，防止文字太少时图片太扁 */
+    /* 3. 关键：裁剪多余部分并居中显示图片核心内容 */
+    object-fit: cover;    
     border-radius: 4px;
+    /* 4. 确保图片在容器中也是居中的 */
+    object-position: center; 
   }
 
-  /* 右侧内容容器 */
   .pub-content {
-    flex: 1;              /* 占据剩余空间 */
+    flex: 1;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    /* 5. 让右侧文字在垂直方向上均匀分布或居中 */
+    justify-content: center; 
   }
 
   .pub-item h3 {
     margin-top: 0;
     margin-bottom: 8px;
-    font-size: 1.15em;    /* 稍微调整标题大小以匹配大图 */
+    /* 继承 Github 默认字体大小 */
+    font-size: 1.25rem; 
+    line-height: 1.3;
   }
   
   .pub-item p {
-    line-height: 1.2;
-    font-size: 0.8em;     /* 统一字体大小控制 */
+    line-height: 1.5;
+    /* 关键：继承 github.io 默认字体大小 */
+    font-size: 1rem; 
     margin: 0;
+    color: inherit;
   }
 
-  /* 优化后的一句话描述样式 */
   .pub-desc {
-    margin-top: 6px !important;
-    margin-bottom: 8px !important;
-    color: #444;          /* 稍微加深颜色，提高可读性 */
+    margin-top: 8px !important;
+    margin-bottom: 10px !important;
+    color: #555;
     font-style: italic;
-    background-color: transparent !important; /* 移除背景色 */
-    padding: 0 !important;                    /* 移除内边距 */
-    border-left: none !important;             /* 移除左边框 */
-    font-size: 0.95em !important;
+    /* 去掉背景和边框 */
+    background-color: transparent !important;
+    padding: 0 !important;
+    border-left: none !important;
+    font-size: 1rem !important; 
+    display: block;
   }
 
   .pub-divider {
     border: none;
-    border-top: 1px solid #eee; /* 减淡分割线，让视觉更干净 */
+    border-top: 1px solid #eaecef;
     margin: 25px 0;
   }
 </style>
