@@ -87,27 +87,7 @@ My research interests primarily focus on video generation and 3D Reconstruction.
 </style>
 
 <div class="pub-item">
-  <img src="https://recamdriving.github.io/static/images/teaser.png">
-  <div class="pub-content">
-    <h3>ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation</h3>
-    <p>
-      <strong><u>Yaokun Li</u></strong>, Shuaixian Wang, Mantang Guo, Jiehui Huang, Taojun Ding, Mu Hu, Kaixuan Wang, Shaijie Shen, Guang Tan<br>
-      <span style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</span>
-    </p>
-    <p class="pub-desc">
-      We introduce ReCamDriving, a vision-only framework for camera-controlled video generation, and ParaDrive, a large-scale dataset comprising 110K parallel-trajectory video pairs.
-    </p>
-    <p>
-      <a href="https://recamdriving.github.io/">Project</a> |
-      <a href="https://arxiv.org/abs/2512.03621">Paper</a> |
-      <a href="https://github.com/Iron-LYK/ReCamDriving">Code</a>
-    </p>
-  </div>
-</div>
-<hr class="pub-divider">
-
-<div class="pub-item">
-  <img src="https://recamdriving.github.io/static/images/teaser.png">
+  <img src="../images/paper_teasers/recamdriving.gif">
   <div class="pub-content">
     <h3>ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation</h3>
     <p>
