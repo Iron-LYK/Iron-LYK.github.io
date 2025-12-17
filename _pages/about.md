@@ -40,9 +40,9 @@ My research interests primarily focus on video generation and 3D Reconstruction.
   
   .pub-item img {
     margin-right: 25px;   /* 增加间距，避免拥挤 */
-    width: 220px;         /* 增大图片宽度 */
+    width: 260px;         /* 增大图片宽度 */
     height: auto;         /* 高度根据比例自适应，配合居中更美观 */
-    max-height: 180px;    /* 限制最大高度，防止图片过大 */
+    max-height: 250px;    /* 限制最大高度，防止图片过大 */
     object-fit: contain;  /* 确保图片完整显示，不被裁剪 */
     border-radius: 4px;
   }
@@ -62,8 +62,8 @@ My research interests primarily focus on video generation and 3D Reconstruction.
   }
   
   .pub-item p {
-    line-height: 1.4;
-    font-size: 0.9em;     /* 统一字体大小控制 */
+    line-height: 1.2;
+    font-size: 0.8em;     /* 统一字体大小控制 */
     margin: 0;
   }
 
