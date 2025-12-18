@@ -198,6 +198,24 @@ My research interests primarily focus on video generation and 3D Reconstruction.
 
 
 <div class="pub-item">
+  <img src="../images/paper_teasers/aaai25.png">
+  <div class="pub-content">
+    <h3>Exploiting Continuous Motion Clues for Vision-Based Occupancy Prediction</h3>
+    <p>
+      Haoran Xu, Peixi Peng, Xinyi Zhang, Guang Tan, <strong><u>Yaokun Li</u></strong>, Shuaixian Wang, Luntong Li<br>
+      <strong style="display:inline-block; margin:6px 0;">AAAI 2025</strong>
+    </p>
+    <p class="pub-desc">
+    We propose CMOP, a continuous motion-aware occupancy prediction framework that leverages historical propagation and dynamic tracking modules to address object occlusions in real-world scenarios.
+    </p>
+    <p>
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32958">Paper</a>
+    </p>
+  </div>
+</div>
+<hr class="pub-divider">
+
+<div class="pub-item">
   <img src="../images/paper_teasers/ID-NeRF.png">
   <div class="pub-content">
     <h3>ID-NeRF: Indirect Diffusion-Guided Neural Radiance Fields for Generalizable View Synthesis</h3>
@@ -233,23 +251,6 @@ My research interests primarily focus on video generation and 3D Reconstruction.
 </div>
 <hr class="pub-divider">
 
-<div class="pub-item">
-  <img src="../images/paper_teasers/aaai25.png">
-  <div class="pub-content">
-    <h3>Exploiting Continuous Motion Clues for Vision-Based Occupancy Prediction</h3>
-    <p>
-      Haoran Xu, Peixi Peng, Xinyi Zhang, Guang Tan, <strong><u>Yaokun Li</u></strong>, Shuaixian Wang, Luntong Li<br>
-      <strong style="display:inline-block; margin:6px 0;">ESWA 2025</strong>
-    </p>
-    <p class="pub-desc">
-    We propose CMOP, a continuous motion-aware occupancy prediction framework that leverages historical propagation and dynamic tracking modules to address object occlusions in real-world scenarios.
-    </p>
-    <p>
-      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32958">Paper</a>
-    </p>
-  </div>
-</div>
-<hr class="pub-divider">
 
 <div class="pub-item">
   <img src="../images/paper_teasers/CIT.png">
