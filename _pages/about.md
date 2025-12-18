@@ -14,7 +14,7 @@ I am a third-year PhD student in the Sun Yat-sen University's Master-Doctor comb
 
 Since June 2024, I have been honored to be a visiting Ph.D at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html), CUHK, under the supervision of Prof. [Tianfan Xue](https://tianfan.info/).
 
-My research interests primarily focus on video generation and 3D Reconstruction. I am open to collaboration and welcome further discussions if you are interested in my research.<br />
+My research interests center around 3D consistent video generation/world modeling, 3D generation/reconstruction, and 4D generation. I am open to collaboration and welcome further discussions if you are interested in my research.<br />
 
 
    
