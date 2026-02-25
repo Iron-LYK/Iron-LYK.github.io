@@ -20,6 +20,7 @@ My research interests center around 3D consistent video generation/world modelin
    
 🔥 News 🔥
 ----- 
+**∙** [2026.02] 🎉🎉 Two paper are accepted to CVPR 2026<br />
 **∙** [2025.12] 🌟🌟 Our new work, ReCamDriving, is released! Check it out via [here](https://recamdriving.github.io/).<br />
 **∙** [2025.10] 🌟🌟 Our new work, DynamicTree, is released! Check it out via [here](https://dynamictree-dev.github.io/DynamicTree.github.io/).<br />
 **∙** [2025.10] 🎉🎉 One paper is accepted to PR 2025<br />
@@ -119,7 +120,7 @@ My research interests center around 3D consistent video generation/world modelin
     <h3>FullPart: Generating each 3D Part at Full Resolution</h3>
     <p>
       Lihe Ding*, Shaocong Dong*, <strong><u>Yaokun Li</u></strong>, Chenjian Gao, Xiao Chen, Rui Han, Yihao Kuang, Hong Zhang, Bo Huang, Zhanpeng Huang, Zibin Wang, Dan Xu†, Tianfan Xue†<br>
-      <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
+      <strong style="display:inline-block; margin:6px 0;">ICLR 2026</strong>
     </p>
     <p class="pub-desc">
       Fullpart generates each 3d part at full resolution. We also present PartVerse-XL, the largest human annotated 3d part dataset.
@@ -140,7 +141,7 @@ My research interests center around 3D consistent video generation/world modelin
     <h3>DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum</h3>
     <p>
       <strong><u>Yaokun Li</u></strong>, Lihe Ding, Xiao Chen, Guang Tan, Tianfan Xue<br>
-      <strong style="display:inline-block; margin:6px 0;">arXiv Preprint, 2025</strong>
+      <strong style="display:inline-block; margin:6px 0;">CVPR 2026</strong>
     </p>
     <p class="pub-desc">
       We propose DynamicTree, the first framework that can generate long-term, interactive animation of 3D Gaussian Splatting trees.
